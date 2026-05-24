@@ -1,0 +1,55 @@
+{
+  "type": "PDFYandexVisionBlock",
+  "message0": "Распознать PDF через Yandex Vision Токен %1 Folder ID %2 Файл %3 Язык %4 Формат %5",
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "TOKEN"
+    },
+    {
+      "type": "input_value",
+      "name": "FOLDER_ID"
+    },
+    {
+      "type": "input_value",
+      "name": "FILE_PATH"
+    },
+    {
+      "type": "field_dropdown",
+      "name": "LANGUAGE",
+      "options": [
+        [
+          "ru",
+          "ru"
+        ],
+        [
+          "en",
+          "en"
+        ],
+        [
+          "ru-en",
+          "ru-en"
+        ]
+      ]
+    },
+    {
+      "type": "field_dropdown",
+      "name": "OUTPUT_FORMAT",
+      "options": [
+        [
+          "dict",
+          "dict"
+        ],
+        [
+          "json",
+          "json"
+        ]
+      ]
+    }
+  ],
+  "inputsInline": false,
+  "output": null,
+  "colour": "#F9A825",
+  "tooltip": "Пытается распознать PDF через Yandex Vision batchAnalyze и при необходимости использует OCR API, возвращая реквизиты документа",
+  "helpUrl": "https://wiki.puzzle-rpa.ru/ru/3.0.3/tools/custom_blocks/"
+}

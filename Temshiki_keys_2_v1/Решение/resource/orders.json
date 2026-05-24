@@ -1,38 +1,14 @@
 [
   {
+    "object": "Документ.СчетПокупателю",
     "number": "",
     "date": "2025-04-01T00:00:00",
     "organization": "Торговый дом \"Комплексный\" ООО",
     "counterparty": "Турбаза Яхрома",
-    "contract": "",
+    "contract": "20 от 09.01.2024",
     "items": [
-      {"product": "Печенье шоколадное", "quantity": 150, "price": 180},
-      {"product": "Пирог тирольский с черникой", "quantity": 10, "price": 200},
-      {"product": "Барбарис", "quantity": 5, "price": 50}
-    ]
-  },
-  {
-    "number": "",
-    "date": "2025-04-02T00:00:00",
-    "organization": "Торговый дом \"Комплексный\" ООО",
-    "counterparty": "ООО Несуществующая Фирма",
-    "contract": "",
-    "items": [
-      {"product": "Печенье шоколадное", "quantity": 5, "price": 180},
-      {"product": "Пирог тирольский с черникой", "quantity": 2, "price": 200},
-      {"product": "Конфеты Барбарис", "quantity": 1, "price": 50}
-    ]
-  },
-  {
-    "number": "",
-    "date": "2025-04-03T00:00:00",
-    "organization": "Торговый дом \"Комплексный\" ООО",
-    "counterparty": "Этнопарк Перун",
-    "contract": "",
-    "items": [
-      {"product": "Печенье шоколадное", "quantity": 20, "price": 180},
-      {"product": "Несуществующий Товар XYZ", "quantity": 3, "price": 99},
-      {"product": "Пирог тирольский с черникой", "quantity": 4, "price": 200}
+      {"product": "Печенье шоколадное", "quantity": 150, "price": 180, "sum": 27000, "vat": "20%"},
+      {"product": "Конфеты Батончик", "quantity": 26, "price": 150, "sum": 3900, "vat": "20%"}
     ]
   }
 ]

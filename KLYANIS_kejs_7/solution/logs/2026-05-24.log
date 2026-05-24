@@ -1,0 +1,32 @@
+2026-05-24T03:03:39+0300 INFO: Запуск процесса из студии разработки. D:\Frontend_Projects\word_formatter\process\Процесс 1.json
+2026-05-24T03:03:41+0300 INFO: Старт робота: D:\Frontend_Projects\word_formatter\resource\e6ab7252-53cc-42e1-b03a-165e68827292\cortex_427.py
+2026-05-24T03:03:41+0300 INFO: Завершение работы робота: D:\Frontend_Projects\word_formatter\resource\e6ab7252-53cc-42e1-b03a-165e68827292\cortex_427.py
+2026-05-24T03:03:41+0300 INFO: Завершение выполнения процесса. D:\Frontend_Projects\word_formatter\process\Процесс 1.json
+2026-05-24T03:04:30+0300 INFO: Запуск процесса из студии разработки. D:\Frontend_Projects\word_formatter\process\Процесс 1.json
+2026-05-24T03:04:31+0300 INFO: Старт робота: D:\Frontend_Projects\word_formatter\resource\19d32a86-3918-4b27-b6bb-bc416eb4d771\cortex_427.py
+2026-05-24T03:04:36+0300 INFO: Завершение работы робота: D:\Frontend_Projects\word_formatter\resource\19d32a86-3918-4b27-b6bb-bc416eb4d771\cortex_427.py
+2026-05-24T03:04:36+0300 INFO: Завершение выполнения процесса. D:\Frontend_Projects\word_formatter\process\Процесс 1.json
+2026-05-24T03:05:27+0300 INFO: Запуск процесса из студии разработки. D:\Frontend_Projects\word_formatter\process\Процесс 1.json
+2026-05-24T03:05:28+0300 INFO: Старт робота: D:\Frontend_Projects\word_formatter\resource\2df30501-f097-4b41-b652-cfb82fbf8304\cortex_427.py
+2026-05-24T03:05:31+0300 INFO: Завершение работы робота: D:\Frontend_Projects\word_formatter\resource\2df30501-f097-4b41-b652-cfb82fbf8304\cortex_427.py
+2026-05-24T03:05:31+0300 INFO: Завершение выполнения процесса. D:\Frontend_Projects\word_formatter\process\Процесс 1.json
+2026-05-24T10:01:09+0300 INFO: Запуск процесса из студии разработки. D:\Frontend_Projects\word_formatter\process\Процесс 1.json
+2026-05-24T10:01:10+0300 INFO: Старт робота: D:\Frontend_Projects\word_formatter\resource\9c2df7fc-7af1-490d-8eb9-16d79aa372fd\cortex_427.py
+2026-05-24T10:01:12+0300 ERROR: D:\Frontend_Projects\word_formatter\resource\9c2df7fc-7af1-490d-8eb9-16d79aa372fd\cortex_427.py Ошибка: name 'my_dict' is not defined
+2026-05-24T10:01:16+0300 ERROR: Завершение выполнения процесса. D:\Frontend_Projects\word_formatter\process\Процесс 1.json
+2026-05-24T10:46:03+0300 INFO: Запуск процесса из студии разработки. D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\process\Процесс 1.json
+2026-05-24T10:46:05+0300 INFO: Старт робота: D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\resource\9a8bb5e1-57da-4824-810d-f4821f474158\cortex_427.py
+2026-05-24T10:46:05+0300 ERROR: D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\resource\9a8bb5e1-57da-4824-810d-f4821f474158\cortex_427.py Ошибка: Шаблон не найден: D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\resource\old_word.docx
+2026-05-24T10:46:12+0300 ERROR: Завершение выполнения процесса. D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\process\Процесс 1.json
+2026-05-24T11:18:09+0300 INFO: Запуск процесса из студии разработки. D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\process\Процесс 1.json
+2026-05-24T11:18:10+0300 INFO: Старт робота: D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\resource\5e394046-a652-489a-80e8-b57c2d476ff7\cortex_427.py
+2026-05-24T11:18:12+0300 INFO: Завершение работы робота: D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\resource\5e394046-a652-489a-80e8-b57c2d476ff7\cortex_427.py
+2026-05-24T11:18:12+0300 INFO: Завершение выполнения процесса. D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\process\Процесс 1.json
+2026-05-24T11:19:44+0300 INFO: Запуск процесса из студии разработки. D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\process\Процесс 1.json
+2026-05-24T11:19:45+0300 INFO: Старт робота: D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\resource\bc1b4730-7c4a-41d0-a344-4738f523b1a8\cortex_427.py
+2026-05-24T11:19:47+0300 INFO: Завершение работы робота: D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\resource\bc1b4730-7c4a-41d0-a344-4738f523b1a8\cortex_427.py
+2026-05-24T11:19:48+0300 INFO: Завершение выполнения процесса. D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\process\Процесс 1.json
+2026-05-24T11:44:06+0300 INFO: Запуск процесса из студии разработки. D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\process\Процесс 1.json
+2026-05-24T11:44:07+0300 INFO: Старт робота: D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\resource\5324a584-82d3-4483-9a54-d07b9ef410ee\cortex_427.py
+2026-05-24T11:44:12+0300 INFO: Завершение работы робота: D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\resource\5324a584-82d3-4483-9a54-d07b9ef410ee\cortex_427.py
+2026-05-24T11:44:12+0300 INFO: Завершение выполнения процесса. D:\Frontend_Projects\puzzle_WORD\hackathon-may-2026\KLYANIS_kejs_7\solution\process\Процесс 1.json

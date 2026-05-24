@@ -1,0 +1,114 @@
+{
+  "source_file": "PDFYandexVisionBlock/showcase_input.pdf",
+  "page_count": 2,
+  "document_type": "УПД",
+  "document_number": "UPD-2026/05-042",
+  "document_date": "24.05.2026",
+  "total_amount": 155035.2,
+  "currency": "RUB",
+  "counterparties": [
+    {
+      "role": "seller",
+      "name": "ООО \"Northwind Digital\"",
+      "inn": "7701234567",
+      "kpp": "770101001"
+    },
+    {
+      "role": "buyer",
+      "name": "АО \"Blue Ocean Retail\"",
+      "inn": "7802345678",
+      "kpp": "780201001"
+    }
+  ],
+  "line_items": [
+    {
+      "name": "Лицензия Puzzle OCR Suite License",
+      "quantity": 3.0,
+      "price": 12500.0,
+      "amount": 37500.0
+    },
+    {
+      "name": "Интеграционный пакет Yandex Vision",
+      "quantity": 1.0,
+      "price": 18990.0,
+      "amount": 18990.0
+    },
+    {
+      "name": "Support, ru/en, priority 24x7",
+      "quantity": 12.0,
+      "price": 2500.5,
+      "amount": 30006.0
+    },
+    {
+      "name": "Сканирование архивных PDF",
+      "quantity": 250.0,
+      "price": 18.4,
+      "amount": 4600.0
+    },
+    {
+      "name": "NDA review and OCR audit",
+      "quantity": 2.0,
+      "price": 7800.0,
+      "amount": 15600.0
+    },
+    {
+      "name": "Custom parser for invoice tables",
+      "quantity": 1.0,
+      "price": 22500.0,
+      "amount": 22500.0
+    }
+  ],
+  "tables": [
+    {
+      "table_index": 1,
+      "page_number": 1,
+      "rows": [
+        [
+          "Наименование",
+          "Количество",
+          "Цена",
+          "Сумма"
+        ],
+        [
+          "Лицензия Puzzle OCR Suite License",
+          "3",
+          "12500.00",
+          "37500.00"
+        ],
+        [
+          "Интеграционный пакет Yandex Vision",
+          "1",
+          "18990.00",
+          "18990.00"
+        ],
+        [
+          "Support, ru/en, priority 24x7",
+          "12",
+          "2500.50",
+          "30006.00"
+        ],
+        [
+          "Сканирование архивных PDF",
+          "250",
+          "18.40",
+          "4600.00"
+        ],
+        [
+          "NDA review and OCR audit",
+          "2",
+          "7800.00",
+          "15600.00"
+        ],
+        [
+          "Custom parser for invoice tables",
+          "1",
+          "22500.00",
+          "22500.00"
+        ]
+      ]
+    }
+  ],
+  "warnings": [],
+  "raw_text": "УПД / Universal Transfer Document\nNo: UPD-2026/05-042\nDate: 24.05.2026\nПоставщик / Seller\nООО \"Northwind Digital\"\nИНН 7701234567 КПП 770101001\nПокупатель / Buyer\nАО \"Blue Ocean Retail\"\nИНН 7802345678 КПП 780201001\nОснование / Contract: C-77/2026 dated 15.05.2026\nЛицензия Puzzle OCR Suite / License\nИнтеграционный пакет Yandex Vision\nSupport, ru/en, priority 24x7\nСканирование архивных PDF\nNDA review and OCR audit\nCustom parser for invoice tables\nSubtotal: 129196.00 RUB\nVAT 20%: 25839.20 RUB\nTotal payable / Всего к оплате: 155035.20 RUB",
+  "engine": "Yandex Vision OCR API"
+}

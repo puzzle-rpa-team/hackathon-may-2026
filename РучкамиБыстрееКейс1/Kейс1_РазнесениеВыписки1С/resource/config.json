@@ -1,0 +1,8 @@
+{
+  "base_url": "https://demo1c.mkskom.ru/puzzle_buh_corp_8.3",
+  "login": "Команда1",
+  "password": "NdkR4N_AqZ6ukG",
+
+  "statement_file": "statement.xlsx",
+  "report_file": "report.csv"
+}

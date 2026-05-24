@@ -1,0 +1,162 @@
+2026-05-22T23:34:38+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:34:52+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\a047a151-dbe8-474c-820d-f5cd9f9e3bc2\main.py
+2026-05-22T23:34:52+0300 ERROR: E:\Univercity\Puzzle\Hackaton_Case_1\resource\a047a151-dbe8-474c-820d-f5cd9f9e3bc2\main.py Ошибка: Не указан путь к файлу Excel или файл не найден
+2026-05-22T23:34:58+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:35:13+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:35:18+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\63ab52ed-5cc7-4897-b10f-2a567f2eaf4d\main.py
+2026-05-22T23:35:18+0300 ERROR: E:\Univercity\Puzzle\Hackaton_Case_1\resource\63ab52ed-5cc7-4897-b10f-2a567f2eaf4d\main.py Ошибка: Номер листа 0 вне допустимого диапазона (1-1)
+2026-05-22T23:35:25+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:35:29+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:35:33+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\fdbac563-f55c-45cb-85f6-c72f6e705351\main.py
+2026-05-22T23:35:59+0300 INFO: Завершение работы робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\fdbac563-f55c-45cb-85f6-c72f6e705351\main.py
+2026-05-22T23:36:01+0300 INFO: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:36:34+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:36:38+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\e97eb394-805b-4252-9ef2-63a65f7e3846\main.py
+2026-05-22T23:36:51+0300 INFO: Завершение работы робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\e97eb394-805b-4252-9ef2-63a65f7e3846\main.py
+2026-05-22T23:36:53+0300 INFO: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:38:08+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:38:11+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\fe786f4a-11b5-4f39-a97a-ce2b4f1eb12a\main.py
+2026-05-22T23:38:19+0300 INFO: Завершение работы робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\fe786f4a-11b5-4f39-a97a-ce2b4f1eb12a\main.py
+2026-05-22T23:38:20+0300 INFO: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:40:39+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:40:43+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\d92bcc91-d450-4980-910c-4330bcfdaffd\main.py
+2026-05-22T23:40:43+0300 ERROR: E:\Univercity\Puzzle\Hackaton_Case_1\resource\d92bcc91-d450-4980-910c-4330bcfdaffd\main.py Ошибка: name 'my_array' is not defined
+2026-05-22T23:40:45+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:41:37+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:41:40+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\e423ceca-493b-4698-b5b3-ed914134f643\main.py
+2026-05-22T23:41:50+0300 ERROR: E:\Univercity\Puzzle\Hackaton_Case_1\resource\e423ceca-493b-4698-b5b3-ed914134f643\main.py Ошибка: 2
+2026-05-22T23:41:53+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:44:25+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:44:28+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\4df71680-6b00-419d-a741-8111cc363936\main.py
+2026-05-22T23:44:38+0300 ERROR: E:\Univercity\Puzzle\Hackaton_Case_1\resource\4df71680-6b00-419d-a741-8111cc363936\main.py Ошибка: 2
+2026-05-22T23:44:41+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:45:07+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:45:10+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\99abc1d0-8cbc-45b9-881e-2c9e8355a006\main.py
+2026-05-22T23:45:16+0300 INFO: Завершение работы робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\99abc1d0-8cbc-45b9-881e-2c9e8355a006\main.py
+2026-05-22T23:45:18+0300 INFO: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:45:53+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:45:57+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\836bb74d-26ab-44db-b663-8cb4a29c43e8\main.py
+2026-05-22T23:45:57+0300 ERROR: E:\Univercity\Puzzle\Hackaton_Case_1\resource\836bb74d-26ab-44db-b663-8cb4a29c43e8\main.py Ошибка: argument of type 'numpy.int64' is not iterable
+2026-05-22T23:46:00+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:46:14+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:46:17+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\f46c055a-e7b8-4a0c-bd39-88343c3f206a\main.py
+2026-05-22T23:46:18+0300 ERROR: E:\Univercity\Puzzle\Hackaton_Case_1\resource\f46c055a-e7b8-4a0c-bd39-88343c3f206a\main.py Ошибка: argument of type 'numpy.int64' is not iterable
+2026-05-22T23:46:22+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:46:27+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:46:31+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\09c3723f-a755-426e-b4be-5718506f456e\main.py
+2026-05-22T23:46:31+0300 ERROR: E:\Univercity\Puzzle\Hackaton_Case_1\resource\09c3723f-a755-426e-b4be-5718506f456e\main.py Ошибка: argument of type 'numpy.int64' is not iterable
+2026-05-22T23:46:33+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:46:41+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:46:45+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\cb664fb9-92af-4719-b966-5980e9f2c26d\main.py
+2026-05-22T23:46:50+0300 INFO: Завершение работы робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\cb664fb9-92af-4719-b966-5980e9f2c26d\main.py
+2026-05-22T23:46:51+0300 INFO: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:53:57+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:54:04+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\2716cb77-e9d9-4859-99bd-4b75110abaee\main.py
+2026-05-22T23:54:07+0300 ERROR: E:\Univercity\Puzzle\Hackaton_Case_1\resource\2716cb77-e9d9-4859-99bd-4b75110abaee\main.py Ошибка: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1006)
+2026-05-22T23:54:13+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:54:16+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:54:19+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\2da6da3a-88f1-46d8-a6be-422026cd31aa\main.py
+2026-05-22T23:54:35+0300 INFO: Завершение работы робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\2da6da3a-88f1-46d8-a6be-422026cd31aa\main.py
+2026-05-22T23:54:37+0300 INFO: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:55:56+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:56:00+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\f7132022-a3ff-4181-b969-325a11f829df\main.py
+2026-05-22T23:56:09+0300 INFO: Завершение работы робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\f7132022-a3ff-4181-b969-325a11f829df\main.py
+2026-05-22T23:56:11+0300 INFO: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:56:21+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:56:25+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\84329db7-904a-4b19-80f8-84b04ccbd7a5\main.py
+2026-05-22T23:56:31+0300 INFO: Завершение работы робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\84329db7-904a-4b19-80f8-84b04ccbd7a5\main.py
+2026-05-22T23:56:33+0300 INFO: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:56:49+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:56:53+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\b45c5f20-f774-4753-a358-e76799759549\main.py
+2026-05-22T23:56:58+0300 INFO: Завершение работы робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\b45c5f20-f774-4753-a358-e76799759549\main.py
+2026-05-22T23:57:00+0300 INFO: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:57:14+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-22T23:57:18+0300 INFO: Старт робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\3d65092d-3665-4e3a-87f8-7bc6564c42ba\main.py
+2026-05-22T23:57:24+0300 INFO: Завершение работы робота: E:\Univercity\Puzzle\Hackaton_Case_1\resource\3d65092d-3665-4e3a-87f8-7bc6564c42ba\main.py
+2026-05-22T23:57:25+0300 INFO: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:07:18+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:07:31+0300 INFO: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:07:33+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:07:43+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:07:46+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:08:00+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:08:12+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:08:19+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:08:27+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:08:37+0300 INFO: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:08:43+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:09:08+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:09:22+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:09:58+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:10:27+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:10:32+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:10:37+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:10:42+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:10:48+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:10:56+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:12:09+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:12:15+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:12:25+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:12:34+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:12:55+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:13:02+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:13:09+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:13:18+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:13:28+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:14:56+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:15:06+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:15:13+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:16:00+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:16:07+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:16:20+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:16:27+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:17:14+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:17:22+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:17:24+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:17:31+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:17:52+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:18:08+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:21:41+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:22:07+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:22:18+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:22:26+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:24:27+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:24:35+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:26:33+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:26:54+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:29:45+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:29:53+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:30:03+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:30:12+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:30:38+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:30:46+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:30:55+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:31:03+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:47:08+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:47:17+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:47:36+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:47:44+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:47:52+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:48:03+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:49:25+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:49:32+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:57:54+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T00:59:04+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:01:08+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:01:15+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:01:27+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:01:34+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:02:32+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:02:49+0300 INFO: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:04:23+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:04:30+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:05:13+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:05:20+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:05:37+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:05:44+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:06:20+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:06:27+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:06:34+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:06:44+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:16:09+0300 INFO: Запуск процесса из студии разработки. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json
+2026-05-23T01:16:17+0300 ERROR: Завершение выполнения процесса. E:\Univercity\Puzzle\Hackaton_Case_1\process\main.json

@@ -1,0 +1,21 @@
+<block type="WordFormatterExtension">
+    <value name="INPUT_PATH">
+        <shadow type="text">
+            <field name="TEXT">C:\path\to\document.docx</field>
+        </shadow>
+    </value>
+    <value name="OUTPUT_PATH">
+        <shadow type="text">
+            <field name="TEXT"></field>
+        </shadow>
+    </value>
+    <value name="FONT_NAME">
+        <shadow type="text">
+            <field name="TEXT">Calibri</field>
+        </shadow>
+    </value>
+    <value name="REPLACEMENTS">
+        <shadow type="object">
+        </shadow>
+    </value>
+</block>

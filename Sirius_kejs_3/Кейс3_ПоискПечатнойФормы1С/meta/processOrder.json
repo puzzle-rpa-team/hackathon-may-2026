@@ -1,1 +1,1 @@
-{"order":["main","LoadConfig","ValidateConfig","SearchDocuments","ParseSearchResponse","CheckSearchResults","PrepareDocumentsList","ProcessDocument","GetPrintForm","GenerateFileName","SavePrintForm","GenerateFinalReport","FinishProcess","PrepareEnvironment"]}
+{"order":["main","ConfigFunctions","1с","ProcessDocument","FinishProcess","techFunctions"]}

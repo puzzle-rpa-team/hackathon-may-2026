@@ -1,0 +1,54 @@
+{
+  "source_file": "PDFYandexVisionBlock/generated_test_input.pdf",
+  "page_count": 1,
+  "document_type": "Счет",
+  "document_number": "INV-2026-001",
+  "document_date": "24.05.2026",
+  "total_amount": 15000.0,
+  "currency": "RUB",
+  "counterparties": [
+    {
+      "role": "seller",
+      "name": "LLC ALFA",
+      "inn": "7701234567",
+      "kpp": "770101001"
+    },
+    {
+      "role": "buyer",
+      "name": "LLC BETA",
+      "inn": "7801234567",
+      "kpp": "780101001"
+    }
+  ],
+  "line_items": [
+    {
+      "name": "Consulting service",
+      "quantity": 1.0,
+      "price": 15000.0,
+      "amount": 15000.0
+    }
+  ],
+  "tables": [
+    {
+      "table_index": 1,
+      "page_number": 1,
+      "rows": [
+        [
+          "Item",
+          "Quantity",
+          "Price",
+          "Total"
+        ],
+        [
+          "Consulting service",
+          "1",
+          "15000",
+          "15000"
+        ]
+      ]
+    }
+  ],
+  "warnings": [],
+  "raw_text": "Invoice No: INV-2026-001\nDate: 24.05.2026\nSeller: LLC ALFA INN 7701234567 KPP 770101001\nBuyer: LLC BETA INN 7801234567 KPP 780101001\nItem Quantity Price Total\nConsulting service 1 15000 15000\nTotal: 15000 RUB",
+  "engine": "Yandex Vision OCR API"
+}

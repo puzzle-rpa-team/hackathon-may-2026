@@ -1,18 +1,17 @@
 {
-  "document_type": "СчетПокупателю",
+  "document_type": "Документ.СчетНаОплатуПокупателю",
   "base_url": "https://demo1c.mkskom.ru/puzzle_buh_corp_8.3/ru/",
-  "section": "Продажи",
-  "subsection": "Счета покупателям",
   "search_criteria": {
-    "number": "",
+    "number": "0000-000023",
     "date_from": "01.08.2025",
     "date_to": "31.08.2025",
-    "counterparty": "",
+    "counterparty": "Турбаза Яхрома",
+    "organization": "Филиал торгового дома \"Комплексный\" в г. Санкт-Петербурге",
     "sum_from": 0,
-    "sum_to": 0
+    "sum_to": 100000
   },
   "mode": "first_only",
-  "output_path": "resource/print_forms",
+  "output_path": "print_forms",
   "output_format": "pdf",
   "file_name_template": "документ_{number}_{date}.pdf"
 }

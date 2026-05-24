@@ -1,0 +1,19 @@
+2026-05-24T00:23:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\dandi\AppData\Local\Programs\PuzzleRPA\3.0.3\Studio\resources\_tmp\projects\Проект 1\process\Процесс 1.json
+2026-05-24T00:23:09+0300 INFO: Завершение выполнения процесса. C:\Users\dandi\AppData\Local\Programs\PuzzleRPA\3.0.3\Studio\resources\_tmp\projects\Проект 1\process\Процесс 1.json
+2026-05-24T00:24:01+0300 INFO: Запуск процесса из студии разработки. C:\Users\dandi\OneDrive\Документы\RPA PROJ TEXT\Проект 12\process\Процесс 1.json
+2026-05-24T00:24:03+0300 INFO: Завершение выполнения процесса. C:\Users\dandi\OneDrive\Документы\RPA PROJ TEXT\Проект 12\process\Процесс 1.json
+2026-05-24T00:24:06+0300 INFO: Запуск процесса из студии разработки. C:\Users\dandi\OneDrive\Документы\RPA PROJ TEXT\Проект 12\process\Процесс 1.json
+2026-05-24T00:24:09+0300 INFO: Завершение выполнения процесса. C:\Users\dandi\OneDrive\Документы\RPA PROJ TEXT\Проект 12\process\Процесс 1.json
+2026-05-24T00:31:12+0300 INFO: Запуск процесса из студии разработки. C:\Users\dandi\OneDrive\Документы\RPA PROJ TEXT\Проект 12\process\Процесс 1.json
+2026-05-24T00:31:17+0300 INFO: Завершение выполнения процесса. C:\Users\dandi\OneDrive\Документы\RPA PROJ TEXT\Проект 12\process\Процесс 1.json
+2026-05-24T00:32:32+0300 INFO: Запуск процесса из студии разработки. C:\Users\dandi\OneDrive\Документы\RPA PROJ TEXT\Проект 12\process\Процесс 1.json
+2026-05-24T00:32:33+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","  File \"C:\\Users\\dandi\\OneDrive\\Документы\\RPA PROJ TEXT\\Проект 12\\resource\\c552f4fa-7e0f-4212-a10e-231aded0b593\\sentry_907.py\", line 28\r\n    ),,block_text=\"Уведомление пользователя\",window_log=True, current_language=\"ru\")\r\n      ^\r\nSyntaxError: invalid syntax\r\n"]
+2026-05-24T00:32:35+0300 ERROR: Завершение выполнения процесса. C:\Users\dandi\OneDrive\Документы\RPA PROJ TEXT\Проект 12\process\Процесс 1.json
+2026-05-24T00:32:56+0300 INFO: Запуск процесса из студии разработки. C:\Users\dandi\OneDrive\Документы\RPA PROJ TEXT\Проект 12\process\Процесс 1.json
+2026-05-24T00:33:10+0300 INFO: Завершение выполнения процесса. C:\Users\dandi\OneDrive\Документы\RPA PROJ TEXT\Проект 12\process\Процесс 1.json
+2026-05-24T00:33:40+0300 INFO: Запуск процесса из студии разработки. C:\Users\dandi\OneDrive\Документы\RPA PROJ TEXT\Проект 12\process\Процесс 1.json
+2026-05-24T00:34:30+0300 INFO: Завершение выполнения процесса. C:\Users\dandi\OneDrive\Документы\RPA PROJ TEXT\Проект 12\process\Процесс 1.json
+2026-05-24T00:43:33+0300 INFO: Запуск процесса из студии разработки. C:\Users\dandi\OneDrive\Документы\RPA PROJ TEXT\Проект 12\process\Процесс 1.json
+2026-05-24T00:44:30+0300 INFO: Завершение выполнения процесса. C:\Users\dandi\OneDrive\Документы\RPA PROJ TEXT\Проект 12\process\Процесс 1.json
+2026-05-24T01:25:05+0300 INFO: Запуск процесса из студии разработки. C:\Users\dandi\OneDrive\Документы\RPA PROJ TEXT\Проект 12\process\Процесс 1.json
+2026-05-24T01:26:49+0300 INFO: Завершение выполнения процесса. C:\Users\dandi\OneDrive\Документы\RPA PROJ TEXT\Проект 12\process\Процесс 1.json

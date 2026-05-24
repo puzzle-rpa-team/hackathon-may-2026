@@ -1,0 +1,17 @@
+<block type="PDFYandexVisionBlock">
+  <value name="TOKEN">
+    <shadow type="text">
+      <field name="TEXT">y0_AgAAAA...</field>
+    </shadow>
+  </value>
+  <value name="FOLDER_ID">
+    <shadow type="text">
+      <field name="TEXT">b1gxxxxxxxxxxxxxxx</field>
+    </shadow>
+  </value>
+  <value name="FILE_PATH">
+    <shadow type="text">
+      <field name="TEXT">C:\\docs\\test_input.pdf</field>
+    </shadow>
+  </value>
+</block>
