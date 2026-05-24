@@ -1,0 +1,45 @@
+{
+  "name": "Format Word Document",
+  "category": "Integration/Word",
+  "icon": "📄",
+  "parameters": [
+    {
+      "name": "input_path",
+      "display_name": "Input file path",
+      "type": "string",
+      "required": true,
+      "description": "Path to .docx file"
+    },
+    {
+      "name": "output_path",
+      "display_name": "Output file path",
+      "type": "string",
+      "required": false,
+      "description": "Path to save result"
+    },
+    {
+      "name": "font_name",
+      "display_name": "Font name",
+      "type": "string",
+      "required": false,
+      "default": "Calibri",
+      "description": "Main document font"
+    },
+    {
+      "name": "font_size",
+      "display_name": "Font size",
+      "type": "int",
+      "required": false,
+      "default": 12,
+      "description": "Font size in points"
+    },
+    {
+      "name": "replacements",
+      "display_name": "Placeholders",
+      "type": "dict",
+      "required": false,
+      "default": {},
+      "description": "Key-value pairs for replacement"
+    }
+  ]
+}
