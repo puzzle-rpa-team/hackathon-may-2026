@@ -8,6 +8,7 @@
     "counterparty": "Кафе \"Аполлон\"",
     "organization": "Магазин №23",
     "sum": 13500.00,
+    "submit": false,
     "items": [
       {
         "product": "Ассорти",

@@ -1,1 +1,58 @@
-{"logs": [{"operation": "Setup", "status": "success", "message": "DBPath: https://demo1c.mkskom.ru/puzzle_buh_corp_8.3; Login: Команда4; Password: **************", "time": "24.05.2026 04:16:01"}, {"operation": "Show form", "status": "success", "message": "", "time": "24.05.2026 04:16:01"}, {"operation": "Read JSON", "status": "success", "message": "file:C:\\Users\\4aik\\Documents\\ПКС\\3_curse\\6_sem\\Your_ad_could_be_here_case_2\\Your_ad_could_be_here_case_2\\решение\\Кейс2_СозданиеДокументов1С\\resource\\orders.json", "time": "24.05.2026 04:16:36"}, {"operation": "Create document", "status": "success", "message": {"document_type": "Документ.СчетНаОплату", "section": "Продажи", "subsection": "Счета покупателям", "number": "СЧ-001", "date": "2025-04-01", "counterparty": "Кафе \"Аполлон\"", "organization": "Магазин №23", "sum": 13500.0, "items": [{"product": "Ассорти", "quantity": 5, "price": 1500, "sum": 7500}, {"product": "Белочка", "quantity": 3, "price": 2000, "sum": 6000}]}, "time": "24.05.2026 04:18:02"}, {"operation": "Programm ended", "status": "success", "message": "", "time": "24.05.2026 04:18:02"}]}
+{
+  "logs": [
+    {
+      "operation": "Setup",
+      "status": "success",
+      "message": "DBPath: https://demo1c.mkskom.ru/puzzle_buh_corp_8.3; Login: Команда4; Password: **************",
+      "time": "24.05.2026 13:29:49"
+    },
+    {
+      "operation": "Show form",
+      "status": "success",
+      "message": "",
+      "time": "24.05.2026 13:29:50"
+    },
+    {
+      "operation": "Read JSON",
+      "status": "success",
+      "message": "file:C:\\Users\\4aik\\Documents\\ПКС\\3_curse\\6_sem\\Your_ad_could_be_here_case_2\\Your_ad_could_be_here_case_2\\решение\\Кейс2_СозданиеДокументов1С\\resource\\orders.json",
+      "time": "24.05.2026 13:30:19"
+    },
+    {
+      "operation": "Create document",
+      "status": "success",
+      "message": {
+        "document_type": "Документ.СчетНаОплату",
+        "section": "Продажи",
+        "subsection": "Счета покупателям",
+        "number": "СЧ-001",
+        "date": "2025-04-01",
+        "counterparty": "Кафе \"Аполлон\"",
+        "organization": "Магазин №23",
+        "sum": 13500.0,
+        "submit": false,
+        "items": [
+          {
+            "product": "Ассорти",
+            "quantity": 5,
+            "price": 1500,
+            "sum": 7500
+          },
+          {
+            "product": "Белочка",
+            "quantity": 3,
+            "price": 2000,
+            "sum": 6000
+          }
+        ]
+      },
+      "time": "24.05.2026 13:30:55"
+    },
+    {
+      "operation": "Programm ended",
+      "status": "success",
+      "message": "",
+      "time": "24.05.2026 13:30:55"
+    }
+  ]
+}
