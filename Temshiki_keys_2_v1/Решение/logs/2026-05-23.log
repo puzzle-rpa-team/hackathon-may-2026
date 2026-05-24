@@ -335,3 +335,123 @@
 2026-05-23T16:24:38+0300 INFO: Запуск процесса из студии разработки. C:\Users\Влад\Desktop\Кейс\Kейс2_СозданиеДокументов1С\process\main.json
 2026-05-23T16:24:41+0300 INFO: Старт робота: C:\Users\Влад\Desktop\Кейс\Kейс2_СозданиеДокументов1С\resource\c7c728f1-3f0e-4ff4-8277-9c6a7cf377a9\main.py
 2026-05-23T16:26:12+0300 INFO: Завершение выполнения процесса. C:\Users\Влад\Desktop\Кейс\Kейс2_СозданиеДокументов1С\process\main.json
+2026-05-23T22:30:52+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T22:31:00+0300 INFO: Старт робота: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\77149cc9-66d7-497c-94b7-cf0c13e33bd0\main.py
+2026-05-23T22:31:00+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\77149cc9-66d7-497c-94b7-cf0c13e33bd0\main.py Ошибка: Expecting value: line 1 column 1 (char 0)
+2026-05-23T22:31:00+0300 Окно выполнения: main: ERROR:  ["Expecting value: line 1 column 1 (char 0)"]
+2026-05-23T22:31:06+0300 ERROR: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T22:31:18+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T22:31:24+0300 INFO: Старт робота: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\f318b0c9-fe7d-424a-b9dd-3363680cc691\main.py
+2026-05-23T22:31:24+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\f318b0c9-fe7d-424a-b9dd-3363680cc691\main.py Ошибка: Expecting value: line 1 column 1 (char 0)
+2026-05-23T22:31:25+0300 Окно выполнения: main: ERROR:  ["Expecting value: line 1 column 1 (char 0)"]
+2026-05-23T22:31:31+0300 ERROR: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T22:34:56+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T22:35:03+0300 INFO: Старт робота: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\c5486c54-0eab-48b1-b721-56c2b15488c6\main.py
+2026-05-23T22:36:59+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\c5486c54-0eab-48b1-b721-56c2b15488c6\main.py Ошибка документа № : Произошла ошибка в строке: 118
+Описание ошибки: The command execution timed out
+2026-05-23T22:36:59+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\c5486c54-0eab-48b1-b721-56c2b15488c6\main.py Ошибка: [Errno 2] No such file or directory: 'C:\\Users\\Влад\\Desktop\\Кейс\\Kейс2_СозданиеДокументов1С\\resource\\result.csv'
+2026-05-23T22:37:00+0300 Окно выполнения: main: ERROR:  ["[Errno 2] No such file or directory: 'C:\\\\Users\\\\Влад\\\\Desktop\\\\Кейс\\\\Kейс2_СозданиеДокументов1С\\\\resource\\\\result.csv'"]
+2026-05-23T22:37:05+0300 ERROR: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T22:38:31+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T22:38:38+0300 INFO: Старт робота: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\61abe0b1-eca7-44ee-a068-df5c0fe4a6fb\main.py
+2026-05-23T22:39:56+0300 INFO: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\61abe0b1-eca7-44ee-a068-df5c0fe4a6fb\main.py Создан документ № 
+2026-05-23T22:39:56+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\61abe0b1-eca7-44ee-a068-df5c0fe4a6fb\main.py Ошибка документа № : Произошла ошибка в строке: 196
+Описание ошибки: [Errno 2] No such file or directory: 'C:\\Users\\Влад\\Desktop\\Кейс\\Kейс2_СозданиеДокументов1С\\resource\\result.csv'
+2026-05-23T22:39:56+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\61abe0b1-eca7-44ee-a068-df5c0fe4a6fb\main.py Ошибка: [Errno 2] No such file or directory: 'C:\\Users\\Влад\\Desktop\\Кейс\\Kейс2_СозданиеДокументов1С\\resource\\result.csv'
+2026-05-23T22:39:56+0300 Окно выполнения: main: ERROR:  ["[Errno 2] No such file or directory: 'C:\\\\Users\\\\Влад\\\\Desktop\\\\Кейс\\\\Kейс2_СозданиеДокументов1С\\\\resource\\\\result.csv'"]
+2026-05-23T22:39:59+0300 ERROR: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T22:46:45+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T22:46:53+0300 INFO: Старт робота: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\0ae8bc01-9337-43fa-8a13-abf027e7dacd\main.py
+2026-05-23T22:47:11+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\0ae8bc01-9337-43fa-8a13-abf027e7dacd\main.py Ошибка: Элемент не найден: XPATH=//input[@id='authWindow_basic_login']
+2026-05-23T22:47:11+0300 Окно выполнения: main: ERROR:  ["Элемент не найден: XPATH=//input[@id='authWindow_basic_login']"]
+2026-05-23T22:47:20+0300 ERROR: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T22:47:32+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T22:47:39+0300 INFO: Старт робота: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\f7b84aaa-3dd8-454c-bd57-d67588f547c9\main.py
+2026-05-23T22:49:00+0300 INFO: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\f7b84aaa-3dd8-454c-bd57-d67588f547c9\main.py Создан документ № 
+2026-05-23T22:49:00+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\f7b84aaa-3dd8-454c-bd57-d67588f547c9\main.py Ошибка документа № : Произошла ошибка в строке: 202
+Описание ошибки: [Errno 2] No such file or directory: 'C:\\Users\\Влад\\Desktop\\Кейс\\Kейс2_СозданиеДокументов1С\\resource\\result.csv'
+2026-05-23T22:49:00+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\f7b84aaa-3dd8-454c-bd57-d67588f547c9\main.py Ошибка: [Errno 2] No such file or directory: 'C:\\Users\\Влад\\Desktop\\Кейс\\Kейс2_СозданиеДокументов1С\\resource\\result.csv'
+2026-05-23T22:49:00+0300 Окно выполнения: main: ERROR:  ["[Errno 2] No such file or directory: 'C:\\\\Users\\\\Влад\\\\Desktop\\\\Кейс\\\\Kейс2_СозданиеДокументов1С\\\\resource\\\\result.csv'"]
+2026-05-23T22:49:12+0300 ERROR: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T22:52:47+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T22:52:53+0300 INFO: Старт робота: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\eab98644-bc99-4edf-a246-041f2e39240e\main.py
+2026-05-23T22:54:14+0300 INFO: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\eab98644-bc99-4edf-a246-041f2e39240e\main.py Создан документ № 
+2026-05-23T22:54:14+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\eab98644-bc99-4edf-a246-041f2e39240e\main.py Ошибка документа № : Произошла ошибка в строке: 202
+Описание ошибки: [Errno 2] No such file or directory: 'C:\\Users\\Влад\\Desktop\\Кейс\\Kейс2_СозданиеДокументов1С\\resource\\result.csv'
+2026-05-23T22:54:14+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\eab98644-bc99-4edf-a246-041f2e39240e\main.py Ошибка: [Errno 2] No such file or directory: 'C:\\Users\\Влад\\Desktop\\Кейс\\Kейс2_СозданиеДокументов1С\\resource\\result.csv'
+2026-05-23T22:54:14+0300 Окно выполнения: main: ERROR:  ["[Errno 2] No such file or directory: 'C:\\\\Users\\\\Влад\\\\Desktop\\\\Кейс\\\\Kейс2_СозданиеДокументов1С\\\\resource\\\\result.csv'"]
+2026-05-23T22:54:26+0300 ERROR: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T22:55:01+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T22:55:07+0300 INFO: Старт робота: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\4294b144-f0ea-4ab8-9220-fd75d6a1c582\main.py
+2026-05-23T22:56:28+0300 INFO: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\4294b144-f0ea-4ab8-9220-fd75d6a1c582\main.py Создан документ № 
+2026-05-23T22:56:28+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\4294b144-f0ea-4ab8-9220-fd75d6a1c582\main.py Ошибка документа № : Произошла ошибка в строке: 202
+Описание ошибки: [Errno 2] No such file or directory: 'C:\\Users\\Влад\\Desktop\\Кейс\\Kейс2_СозданиеДокументов1С\\resource\\result.csv'
+2026-05-23T22:56:28+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\4294b144-f0ea-4ab8-9220-fd75d6a1c582\main.py Ошибка: [Errno 2] No such file or directory: 'C:\\Users\\Влад\\Desktop\\Кейс\\Kейс2_СозданиеДокументов1С\\resource\\result.csv'
+2026-05-23T22:56:28+0300 Окно выполнения: main: ERROR:  ["[Errno 2] No such file or directory: 'C:\\\\Users\\\\Влад\\\\Desktop\\\\Кейс\\\\Kейс2_СозданиеДокументов1С\\\\resource\\\\result.csv'"]
+2026-05-23T22:56:33+0300 ERROR: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T23:12:45+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T23:12:51+0300 INFO: Старт робота: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\76c37345-06f2-4b93-a5e2-a6bee0b7532c\main.py
+2026-05-23T23:12:51+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\76c37345-06f2-4b93-a5e2-a6bee0b7532c\main.py Ошибка: Extra data: line 13 column 4 (char 422)
+2026-05-23T23:12:51+0300 Окно выполнения: main: ERROR:  ["Extra data: line 13 column 4 (char 422)"]
+2026-05-23T23:12:57+0300 ERROR: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T23:13:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T23:13:16+0300 INFO: Старт робота: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\16b6da1b-7451-4a0b-a751-d05837117d11\main.py
+2026-05-23T23:13:16+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\16b6da1b-7451-4a0b-a751-d05837117d11\main.py Ошибка: Extra data: line 13 column 4 (char 422)
+2026-05-23T23:13:16+0300 Окно выполнения: main: ERROR:  ["Extra data: line 13 column 4 (char 422)"]
+2026-05-23T23:13:24+0300 ERROR: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T23:14:34+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T23:14:39+0300 INFO: Старт робота: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\42a4262c-af66-41e6-9b08-d3525aae74b7\main.py
+2026-05-23T23:14:39+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\42a4262c-af66-41e6-9b08-d3525aae74b7\main.py Ошибка: Extra data: line 12 column 4 (char 421)
+2026-05-23T23:14:39+0300 Окно выполнения: main: ERROR:  ["Extra data: line 12 column 4 (char 421)"]
+2026-05-23T23:14:43+0300 ERROR: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T23:16:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T23:16:13+0300 INFO: Старт робота: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\866dda0a-9bae-4419-b1e2-176bea69b86e\main.py
+2026-05-23T23:17:40+0300 INFO: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\866dda0a-9bae-4419-b1e2-176bea69b86e\main.py Создан документ № 
+2026-05-23T23:17:40+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\866dda0a-9bae-4419-b1e2-176bea69b86e\main.py Ошибка документа № : Произошла ошибка в строке: 202
+Описание ошибки: [Errno 2] No such file or directory: 'C:\\Users\\Влад\\Desktop\\Кейс\\Kейс2_СозданиеДокументов1С\\resource\\result.csv'
+2026-05-23T23:17:40+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\866dda0a-9bae-4419-b1e2-176bea69b86e\main.py Ошибка: [Errno 2] No such file or directory: 'C:\\Users\\Влад\\Desktop\\Кейс\\Kейс2_СозданиеДокументов1С\\resource\\result.csv'
+2026-05-23T23:17:40+0300 Окно выполнения: main: ERROR:  ["[Errno 2] No such file or directory: 'C:\\\\Users\\\\Влад\\\\Desktop\\\\Кейс\\\\Kейс2_СозданиеДокументов1С\\\\resource\\\\result.csv'"]
+2026-05-23T23:18:12+0300 ERROR: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T23:18:50+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T23:18:57+0300 INFO: Старт робота: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\e9e64bfc-66dc-4825-a3a9-fd9dd4b4534f\main.py
+2026-05-23T23:20:23+0300 INFO: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\e9e64bfc-66dc-4825-a3a9-fd9dd4b4534f\main.py Создан документ № 
+2026-05-23T23:21:10+0300 INFO: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T23:21:14+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-23T23:21:19+0300 INFO: Старт робота: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\600d0d9a-4441-461b-a52a-f5fa7949bc55\main.py
+2026-05-23T23:22:47+0300 INFO: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\600d0d9a-4441-461b-a52a-f5fa7949bc55\main.py Создан документ № 
+2026-05-23T23:23:49+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\600d0d9a-4441-461b-a52a-f5fa7949bc55\main.py Ошибка документа № : Произошла ошибка в строке: 130
+Описание ошибки: The element is not visible
+2026-05-23T23:24:46+0300 ERROR: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\600d0d9a-4441-461b-a52a-f5fa7949bc55\main.py Ошибка документа № : Произошла ошибка в строке: 130
+Описание ошибки: The element is not visible
+2026-05-23T23:24:46+0300 INFO: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\600d0d9a-4441-461b-a52a-f5fa7949bc55\main.py Обработка завершена. Успешно: 1, ошибок: 2
+2026-05-23T23:24:52+0300 INFO: Завершение работы робота: C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\resource\600d0d9a-4441-461b-a52a-f5fa7949bc55\main.py
+2026-05-23T23:24:52+0300 INFO: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T00:03:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T00:07:04+0300 INFO: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T00:07:29+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T00:11:08+0300 INFO: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T00:52:46+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T00:55:41+0300 INFO: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T00:57:34+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T01:01:35+0300 INFO: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T01:22:54+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\Процесс 1.json
+2026-05-24T01:22:57+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","C:\\Program Files\\Python311\\python.exe: can't open file 'C:\\\\Program Files\\\\PuzzleRPA\\\\3.0.3\\\\Studio\\\\Процесс 1': [Errno 2] No such file or directory\r\n"]
+2026-05-24T01:22:58+0300 ERROR: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\Процесс 1.json
+2026-05-24T01:23:02+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\Процесс 1.json
+2026-05-24T01:23:04+0300 Окно выполнения: Процесс 1: ERROR:  ["stderr:","C:\\Program Files\\Python311\\python.exe: can't open file 'C:\\\\Program Files\\\\PuzzleRPA\\\\3.0.3\\\\Studio\\\\Процесс 1': [Errno 2] No such file or directory\r\n"]
+2026-05-24T01:23:05+0300 ERROR: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\Процесс 1.json
+2026-05-24T01:30:01+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T01:31:03+0300 INFO: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T01:42:43+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T01:44:27+0300 ERROR: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T02:02:36+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T02:03:18+0300 INFO: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T02:03:21+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T02:05:50+0300 INFO: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T02:22:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T02:22:46+0300 Окно выполнения: main: ERROR:  ["Элемент не найден: XPATH=//input[@id='authWindow_basic_login']"]
+2026-05-24T02:22:51+0300 ERROR: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T02:23:01+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T02:24:35+0300 INFO: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T02:39:10+0300 INFO: Запуск процесса из студии разработки. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
+2026-05-24T02:42:23+0300 INFO: Завершение выполнения процесса. C:\Users\mihaz\Desktop\hackathon-may-2026-main\hackathon-may-2026-main\Temshiki_keys_2_v1\Решение\process\main.json
