@@ -1,3 +1,1 @@
-[
-  "$/word_formatter"
-]
+["win32com.client", "pythoncom", "$/word_formatter"]
