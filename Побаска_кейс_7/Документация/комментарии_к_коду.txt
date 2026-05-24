@@ -1,0 +1,26 @@
+Для выполнения замены множественных пробелов применен следующий код:
+
+```try:
+        while True:
+            word = doc.Application
+            word.Selection.Find.ClearFormatting()
+            word.Selection.Find.Replacement.ClearFormatting()
+            result = word.Selection.Find.Execute(
+                "[ ^s][ ^s]@",
+                False,
+                False,
+                True,
+                False,
+                False,
+                True,
+                1,
+                False,
+                " ",
+                2
+            )
+            if not result:
+                break
+    except Exception:
+        pass```
+
+Выбран такой формат замены так как это специфика работы множественными пробелами в Word документах
