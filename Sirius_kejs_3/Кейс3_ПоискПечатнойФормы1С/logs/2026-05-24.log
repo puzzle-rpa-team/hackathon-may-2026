@@ -1,175 +1,383 @@
-2026-05-24T10:10:05+0300 INFO: Запуск процесса из студии разработки. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:10:07+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\471e4c48-82b1-4a51-afff-17333c8736fb\ConfigFunctions.py
-2026-05-24T10:10:09+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\471e4c48-82b1-4a51-afff-17333c8736fb\techFunctions.py
-2026-05-24T10:10:10+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\471e4c48-82b1-4a51-afff-17333c8736fb\relay_930.py
-2026-05-24T10:10:10+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\471e4c48-82b1-4a51-afff-17333c8736fb\ProcessDocument.py
-2026-05-24T10:10:10+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\471e4c48-82b1-4a51-afff-17333c8736fb\FinishProcess.py
-2026-05-24T10:10:10+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\471e4c48-82b1-4a51-afff-17333c8736fb\main.py
-2026-05-24T10:10:10+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\471e4c48-82b1-4a51-afff-17333c8736fb\main.py Робот начал работу 24.05.2026 10:10:10
-2026-05-24T10:10:10+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\471e4c48-82b1-4a51-afff-17333c8736fb\ConfigFunctions.py Папки подготовлены
-2026-05-24T10:10:58+0300 Окно выполнения: main: ERROR:  ["Failed to get child processes: program not found"]
-2026-05-24T10:12:05+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\471e4c48-82b1-4a51-afff-17333c8736fb\ProcessDocument.py Ошибка получения печатной формы
-2026-05-24T10:12:05+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\471e4c48-82b1-4a51-afff-17333c8736fb\main.py Ошибка: name 'is_process_successed' is not defined
-2026-05-24T10:12:05+0300 INFO: Завершение выполнения процесса. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:13:07+0300 INFO: Запуск процесса из студии разработки. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:13:08+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\35223405-26bb-498f-ad34-a8e8a0697d1c\ConfigFunctions.py
-2026-05-24T10:13:08+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\35223405-26bb-498f-ad34-a8e8a0697d1c\techFunctions.py
-2026-05-24T10:13:10+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\35223405-26bb-498f-ad34-a8e8a0697d1c\relay_930.py
-2026-05-24T10:13:10+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\35223405-26bb-498f-ad34-a8e8a0697d1c\ProcessDocument.py
-2026-05-24T10:13:10+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\35223405-26bb-498f-ad34-a8e8a0697d1c\FinishProcess.py
-2026-05-24T10:13:10+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\35223405-26bb-498f-ad34-a8e8a0697d1c\main.py
-2026-05-24T10:13:10+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\35223405-26bb-498f-ad34-a8e8a0697d1c\main.py Робот начал работу 24.05.2026 10:13:10
-2026-05-24T10:13:10+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\35223405-26bb-498f-ad34-a8e8a0697d1c\ConfigFunctions.py Папки подготовлены
-2026-05-24T10:14:32+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\35223405-26bb-498f-ad34-a8e8a0697d1c\ProcessDocument.py Ошибка получения печатной формы
-2026-05-24T10:14:32+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\35223405-26bb-498f-ad34-a8e8a0697d1c\main.py Ошибка: name 'is_process_successed' is not defined
-2026-05-24T10:14:33+0300 Окно выполнения: main: ERROR:  ["name 'is_process_successed' is not defined"]
-2026-05-24T10:14:37+0300 ERROR: Завершение выполнения процесса. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:22:26+0300 INFO: Запуск процесса из студии разработки. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:22:28+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bc0a0a56-beb8-41a1-a364-e8f34e4ae24e\ConfigFunctions.py
-2026-05-24T10:22:28+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bc0a0a56-beb8-41a1-a364-e8f34e4ae24e\techFunctions.py
-2026-05-24T10:22:30+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bc0a0a56-beb8-41a1-a364-e8f34e4ae24e\relay_930.py
-2026-05-24T10:22:30+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bc0a0a56-beb8-41a1-a364-e8f34e4ae24e\ProcessDocument.py
-2026-05-24T10:22:30+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bc0a0a56-beb8-41a1-a364-e8f34e4ae24e\FinishProcess.py
-2026-05-24T10:22:30+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bc0a0a56-beb8-41a1-a364-e8f34e4ae24e\main.py
-2026-05-24T10:22:30+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bc0a0a56-beb8-41a1-a364-e8f34e4ae24e\main.py Робот начал работу 24.05.2026 10:22:30
-2026-05-24T10:22:30+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bc0a0a56-beb8-41a1-a364-e8f34e4ae24e\ConfigFunctions.py Папки подготовлены
-2026-05-24T10:23:53+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bc0a0a56-beb8-41a1-a364-e8f34e4ae24e\main.py Ошибка: name 'text' is not defined
-2026-05-24T10:23:53+0300 Окно выполнения: main: ERROR:  ["name 'text' is not defined"]
-2026-05-24T10:24:03+0300 ERROR: Завершение выполнения процесса. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:27:27+0300 INFO: Запуск процесса из студии разработки. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:27:28+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\8d74e3b7-6e77-4330-ba04-01b7c9eed0c4\ConfigFunctions.py
-2026-05-24T10:27:29+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\8d74e3b7-6e77-4330-ba04-01b7c9eed0c4\techFunctions.py
-2026-05-24T10:27:30+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\8d74e3b7-6e77-4330-ba04-01b7c9eed0c4\relay_930.py
-2026-05-24T10:27:30+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\8d74e3b7-6e77-4330-ba04-01b7c9eed0c4\ProcessDocument.py
-2026-05-24T10:27:30+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\8d74e3b7-6e77-4330-ba04-01b7c9eed0c4\FinishProcess.py
-2026-05-24T10:27:30+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\8d74e3b7-6e77-4330-ba04-01b7c9eed0c4\main.py
-2026-05-24T10:27:30+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\8d74e3b7-6e77-4330-ba04-01b7c9eed0c4\main.py Робот начал работу 24.05.2026 10:27:30
-2026-05-24T10:27:30+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\8d74e3b7-6e77-4330-ba04-01b7c9eed0c4\ConfigFunctions.py Папки подготовлены
-2026-05-24T10:29:51+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\8d74e3b7-6e77-4330-ba04-01b7c9eed0c4\ProcessDocument.py Ошибка получения печатной формы
-2026-05-24T10:29:51+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\8d74e3b7-6e77-4330-ba04-01b7c9eed0c4\main.py Ошибка: name 'is_process_successed' is not defined
-2026-05-24T10:29:51+0300 Окно выполнения: main: ERROR:  ["name 'is_process_successed' is not defined"]
-2026-05-24T10:29:53+0300 ERROR: Завершение выполнения процесса. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:30:18+0300 INFO: Запуск процесса из студии разработки. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:30:19+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\07ea6426-626d-4362-a487-679e734e9fe1\ConfigFunctions.py
-2026-05-24T10:30:19+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\07ea6426-626d-4362-a487-679e734e9fe1\techFunctions.py
-2026-05-24T10:30:21+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\07ea6426-626d-4362-a487-679e734e9fe1\relay_930.py
-2026-05-24T10:30:21+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\07ea6426-626d-4362-a487-679e734e9fe1\ProcessDocument.py
-2026-05-24T10:30:21+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\07ea6426-626d-4362-a487-679e734e9fe1\FinishProcess.py
-2026-05-24T10:30:21+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\07ea6426-626d-4362-a487-679e734e9fe1\main.py
-2026-05-24T10:30:21+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\07ea6426-626d-4362-a487-679e734e9fe1\main.py Робот начал работу 24.05.2026 10:30:21
-2026-05-24T10:30:21+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\07ea6426-626d-4362-a487-679e734e9fe1\ConfigFunctions.py Папки подготовлены
-2026-05-24T10:33:10+0300 Окно выполнения: main: ERROR:  ["Failed to get child processes: program not found"]
-2026-05-24T10:36:36+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\07ea6426-626d-4362-a487-679e734e9fe1\ProcessDocument.py Ошибка получения печатной формы
-2026-05-24T10:36:36+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\07ea6426-626d-4362-a487-679e734e9fe1\main.py Ошибка: name 'is_process_successed' is not defined
-2026-05-24T10:36:38+0300 INFO: Завершение выполнения процесса. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:36:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:36:43+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e6b126dc-b55c-4d93-9a60-f477a7880c67\ConfigFunctions.py
-2026-05-24T10:36:43+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e6b126dc-b55c-4d93-9a60-f477a7880c67\techFunctions.py
-2026-05-24T10:36:45+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e6b126dc-b55c-4d93-9a60-f477a7880c67\relay_930.py
-2026-05-24T10:36:45+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e6b126dc-b55c-4d93-9a60-f477a7880c67\ProcessDocument.py
-2026-05-24T10:36:45+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e6b126dc-b55c-4d93-9a60-f477a7880c67\FinishProcess.py
-2026-05-24T10:36:45+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e6b126dc-b55c-4d93-9a60-f477a7880c67\main.py
-2026-05-24T10:36:45+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e6b126dc-b55c-4d93-9a60-f477a7880c67\main.py Робот начал работу 24.05.2026 10:36:45
-2026-05-24T10:36:45+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e6b126dc-b55c-4d93-9a60-f477a7880c67\ConfigFunctions.py Папки подготовлены
-2026-05-24T10:38:19+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e6b126dc-b55c-4d93-9a60-f477a7880c67\ProcessDocument.py Ошибка получения печатной формы
-2026-05-24T10:38:19+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e6b126dc-b55c-4d93-9a60-f477a7880c67\main.py Ошибка: name 'is_process_successed' is not defined
-2026-05-24T10:38:19+0300 Окно выполнения: main: ERROR:  ["name 'is_process_successed' is not defined"]
-2026-05-24T10:38:21+0300 ERROR: Завершение выполнения процесса. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:39:49+0300 INFO: Запуск процесса из студии разработки. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:39:50+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\2d044023-6f1f-4798-ad3c-8ef63c63c26f\ConfigFunctions.py
-2026-05-24T10:39:50+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\2d044023-6f1f-4798-ad3c-8ef63c63c26f\techFunctions.py
-2026-05-24T10:39:51+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\2d044023-6f1f-4798-ad3c-8ef63c63c26f\relay_930.py
-2026-05-24T10:39:51+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\2d044023-6f1f-4798-ad3c-8ef63c63c26f\ProcessDocument.py
-2026-05-24T10:39:51+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\2d044023-6f1f-4798-ad3c-8ef63c63c26f\FinishProcess.py
-2026-05-24T10:39:51+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\2d044023-6f1f-4798-ad3c-8ef63c63c26f\main.py
-2026-05-24T10:39:51+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\2d044023-6f1f-4798-ad3c-8ef63c63c26f\main.py Робот начал работу 24.05.2026 10:39:51
-2026-05-24T10:39:51+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\2d044023-6f1f-4798-ad3c-8ef63c63c26f\ConfigFunctions.py Папки подготовлены
-2026-05-24T10:42:06+0300 Окно выполнения: main: ERROR:  ["Failed to get child processes: program not found"]
-2026-05-24T10:49:55+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\2d044023-6f1f-4798-ad3c-8ef63c63c26f\ProcessDocument.py Ошибка получения печатной формы
-2026-05-24T10:49:55+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\2d044023-6f1f-4798-ad3c-8ef63c63c26f\main.py Ошибка: name 'is_process_successed' is not defined
-2026-05-24T10:49:56+0300 INFO: Завершение выполнения процесса. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:50:59+0300 INFO: Запуск процесса из студии разработки. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:51:00+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\d67b6a8e-5733-4bd9-855e-b4fdfa9b03e2\ConfigFunctions.py
-2026-05-24T10:51:00+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\d67b6a8e-5733-4bd9-855e-b4fdfa9b03e2\techFunctions.py
-2026-05-24T10:51:02+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\d67b6a8e-5733-4bd9-855e-b4fdfa9b03e2\relay_930.py
-2026-05-24T10:51:02+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\d67b6a8e-5733-4bd9-855e-b4fdfa9b03e2\ProcessDocument.py
-2026-05-24T10:51:02+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\d67b6a8e-5733-4bd9-855e-b4fdfa9b03e2\FinishProcess.py
-2026-05-24T10:51:02+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\d67b6a8e-5733-4bd9-855e-b4fdfa9b03e2\main.py
-2026-05-24T10:51:02+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\d67b6a8e-5733-4bd9-855e-b4fdfa9b03e2\main.py Робот начал работу 24.05.2026 10:51:02
-2026-05-24T10:51:02+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\d67b6a8e-5733-4bd9-855e-b4fdfa9b03e2\ConfigFunctions.py Папки подготовлены
-2026-05-24T10:52:30+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\d67b6a8e-5733-4bd9-855e-b4fdfa9b03e2\main.py Ошибка: 'int' object is not subscriptable
-2026-05-24T10:52:30+0300 Окно выполнения: main: ERROR:  ["'int' object is not subscriptable"]
-2026-05-24T10:52:37+0300 ERROR: Завершение выполнения процесса. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:54:42+0300 INFO: Запуск процесса из студии разработки. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T10:54:43+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\13f81011-3e15-40c5-ad42-7aae1020ec19\ConfigFunctions.py
-2026-05-24T10:54:43+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\13f81011-3e15-40c5-ad42-7aae1020ec19\techFunctions.py
-2026-05-24T10:54:44+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\13f81011-3e15-40c5-ad42-7aae1020ec19\relay_930.py
-2026-05-24T10:54:44+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\13f81011-3e15-40c5-ad42-7aae1020ec19\ProcessDocument.py
-2026-05-24T10:54:44+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\13f81011-3e15-40c5-ad42-7aae1020ec19\FinishProcess.py
-2026-05-24T10:54:44+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\13f81011-3e15-40c5-ad42-7aae1020ec19\main.py
-2026-05-24T10:54:44+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\13f81011-3e15-40c5-ad42-7aae1020ec19\main.py Робот начал работу 24.05.2026 10:54:44
-2026-05-24T10:54:44+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\13f81011-3e15-40c5-ad42-7aae1020ec19\ConfigFunctions.py Папки подготовлены
-2026-05-24T10:56:13+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\13f81011-3e15-40c5-ad42-7aae1020ec19\main.py Ошибка: 'int' object is not subscriptable
-2026-05-24T10:56:13+0300 Окно выполнения: main: ERROR:  ["'int' object is not subscriptable"]
-2026-05-24T10:56:23+0300 ERROR: Завершение выполнения процесса. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T11:02:04+0300 INFO: Запуск процесса из студии разработки. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T11:02:05+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e2697187-7794-4995-b35f-e26bd8265679\ConfigFunctions.py
-2026-05-24T11:02:05+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e2697187-7794-4995-b35f-e26bd8265679\techFunctions.py
-2026-05-24T11:02:07+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e2697187-7794-4995-b35f-e26bd8265679\relay_930.py
-2026-05-24T11:02:07+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e2697187-7794-4995-b35f-e26bd8265679\ProcessDocument.py
-2026-05-24T11:02:07+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e2697187-7794-4995-b35f-e26bd8265679\FinishProcess.py
-2026-05-24T11:02:07+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e2697187-7794-4995-b35f-e26bd8265679\main.py
-2026-05-24T11:02:07+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e2697187-7794-4995-b35f-e26bd8265679\main.py Робот начал работу 24.05.2026 11:02:07
-2026-05-24T11:02:07+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e2697187-7794-4995-b35f-e26bd8265679\ConfigFunctions.py Папки подготовлены
-2026-05-24T11:04:01+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\e2697187-7794-4995-b35f-e26bd8265679\main.py Ошибка: 'int' object is not subscriptable
-2026-05-24T11:04:01+0300 Окно выполнения: main: ERROR:  ["'int' object is not subscriptable"]
-2026-05-24T11:04:06+0300 ERROR: Завершение выполнения процесса. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T11:05:24+0300 INFO: Запуск процесса из студии разработки. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T11:05:25+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bfe4b962-96c7-4c1b-b097-a9d08837a563\ConfigFunctions.py
-2026-05-24T11:05:25+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bfe4b962-96c7-4c1b-b097-a9d08837a563\techFunctions.py
-2026-05-24T11:05:27+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bfe4b962-96c7-4c1b-b097-a9d08837a563\relay_930.py
-2026-05-24T11:05:27+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bfe4b962-96c7-4c1b-b097-a9d08837a563\ProcessDocument.py
-2026-05-24T11:05:27+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bfe4b962-96c7-4c1b-b097-a9d08837a563\FinishProcess.py
-2026-05-24T11:05:27+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bfe4b962-96c7-4c1b-b097-a9d08837a563\main.py
-2026-05-24T11:05:27+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bfe4b962-96c7-4c1b-b097-a9d08837a563\main.py Робот начал работу 24.05.2026 11:05:27
-2026-05-24T11:05:27+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bfe4b962-96c7-4c1b-b097-a9d08837a563\ConfigFunctions.py Папки подготовлены
-2026-05-24T11:08:03+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\bfe4b962-96c7-4c1b-b097-a9d08837a563\main.py Ошибка: 'int' object is not subscriptable
-2026-05-24T11:08:03+0300 Окно выполнения: main: ERROR:  ["'int' object is not subscriptable"]
-2026-05-24T11:08:05+0300 ERROR: Завершение выполнения процесса. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T11:08:56+0300 INFO: Запуск процесса из студии разработки. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T11:08:57+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\656a66d3-b3eb-4367-9098-af44dfb9a944\ConfigFunctions.py
-2026-05-24T11:08:58+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\656a66d3-b3eb-4367-9098-af44dfb9a944\techFunctions.py
-2026-05-24T11:09:00+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\656a66d3-b3eb-4367-9098-af44dfb9a944\relay_930.py
-2026-05-24T11:09:00+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\656a66d3-b3eb-4367-9098-af44dfb9a944\ProcessDocument.py
-2026-05-24T11:09:00+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\656a66d3-b3eb-4367-9098-af44dfb9a944\FinishProcess.py
-2026-05-24T11:09:00+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\656a66d3-b3eb-4367-9098-af44dfb9a944\main.py
-2026-05-24T11:09:00+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\656a66d3-b3eb-4367-9098-af44dfb9a944\main.py Робот начал работу 24.05.2026 11:09:00
-2026-05-24T11:09:00+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\656a66d3-b3eb-4367-9098-af44dfb9a944\ConfigFunctions.py Папки подготовлены
-2026-05-24T11:09:40+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\656a66d3-b3eb-4367-9098-af44dfb9a944\main.py Ошибка: server rejected WebSocket connection: HTTP 500
-2026-05-24T11:09:40+0300 Окно выполнения: main: ERROR:  ["server rejected WebSocket connection: HTTP 500"]
-2026-05-24T11:09:42+0300 ERROR: Завершение выполнения процесса. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T11:10:22+0300 INFO: Запуск процесса из студии разработки. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T11:10:23+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\fb92138b-9c36-431b-8a8f-0dd8485f1ed5\ConfigFunctions.py
-2026-05-24T11:10:24+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\fb92138b-9c36-431b-8a8f-0dd8485f1ed5\techFunctions.py
-2026-05-24T11:10:25+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\fb92138b-9c36-431b-8a8f-0dd8485f1ed5\relay_930.py
-2026-05-24T11:10:25+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\fb92138b-9c36-431b-8a8f-0dd8485f1ed5\ProcessDocument.py
-2026-05-24T11:10:25+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\fb92138b-9c36-431b-8a8f-0dd8485f1ed5\FinishProcess.py
-2026-05-24T11:10:25+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\fb92138b-9c36-431b-8a8f-0dd8485f1ed5\main.py
-2026-05-24T11:10:25+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\fb92138b-9c36-431b-8a8f-0dd8485f1ed5\main.py Робот начал работу 24.05.2026 11:10:25
-2026-05-24T11:10:25+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\fb92138b-9c36-431b-8a8f-0dd8485f1ed5\ConfigFunctions.py Папки подготовлены
-2026-05-24T11:12:27+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\fb92138b-9c36-431b-8a8f-0dd8485f1ed5\main.py Ошибка: При открытии страницы произошла ошибка. Не указана ссылка или полное название страницы.
-2026-05-24T11:12:27+0300 Окно выполнения: main: ERROR:  ["При открытии страницы произошла ошибка. Не указана ссылка или полное название страницы."]
-2026-05-24T11:12:42+0300 ERROR: Завершение выполнения процесса. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T11:21:32+0300 INFO: Запуск процесса из студии разработки. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
-2026-05-24T11:21:33+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\4283f0bf-c419-41eb-80a9-eb4397d7cf42\ConfigFunctions.py
-2026-05-24T11:21:33+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\4283f0bf-c419-41eb-80a9-eb4397d7cf42\techFunctions.py
-2026-05-24T11:21:35+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\4283f0bf-c419-41eb-80a9-eb4397d7cf42\relay_930.py
-2026-05-24T11:21:35+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\4283f0bf-c419-41eb-80a9-eb4397d7cf42\ProcessDocument.py
-2026-05-24T11:21:35+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\4283f0bf-c419-41eb-80a9-eb4397d7cf42\FinishProcess.py
-2026-05-24T11:21:35+0300 INFO: Старт робота: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\4283f0bf-c419-41eb-80a9-eb4397d7cf42\main.py
-2026-05-24T11:21:35+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\4283f0bf-c419-41eb-80a9-eb4397d7cf42\main.py Робот начал работу 24.05.2026 11:21:35
-2026-05-24T11:21:35+0300 INFO: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\4283f0bf-c419-41eb-80a9-eb4397d7cf42\ConfigFunctions.py Папки подготовлены
-2026-05-24T11:23:25+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\4283f0bf-c419-41eb-80a9-eb4397d7cf42\ProcessDocument.py Ошибка получения печатной формы
-2026-05-24T11:23:25+0300 ERROR: C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\resource\4283f0bf-c419-41eb-80a9-eb4397d7cf42\main.py Ошибка: name 'is_process_successed' is not defined
-2026-05-24T11:23:25+0300 Окно выполнения: main: ERROR:  ["name 'is_process_successed' is not defined"]
-2026-05-24T11:23:29+0300 ERROR: Завершение выполнения процесса. C:\Users\kulak\Downloads\aaaaaaaaaa\case3_search-for-printed-form-master\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:02:38+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:02:40+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88aac7ea-1449-49f3-80f4-ee45465092fc\ConfigFunctions.py
+2026-05-24T11:02:40+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88aac7ea-1449-49f3-80f4-ee45465092fc\techFunctions.py
+2026-05-24T11:02:42+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88aac7ea-1449-49f3-80f4-ee45465092fc\relay_930.py
+2026-05-24T11:02:42+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88aac7ea-1449-49f3-80f4-ee45465092fc\ProcessDocument.py
+2026-05-24T11:02:42+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88aac7ea-1449-49f3-80f4-ee45465092fc\FinishProcess.py
+2026-05-24T11:02:42+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88aac7ea-1449-49f3-80f4-ee45465092fc\main.py
+2026-05-24T11:02:43+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88aac7ea-1449-49f3-80f4-ee45465092fc\main.py Робот начал работу 24.05.2026 11:02:43
+2026-05-24T11:02:43+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88aac7ea-1449-49f3-80f4-ee45465092fc\ConfigFunctions.py Папки подготовлены
+2026-05-24T11:02:53+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:04:02+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:04:03+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\e05192a9-b910-4701-8e16-04658da2a65a\ConfigFunctions.py
+2026-05-24T11:04:03+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\e05192a9-b910-4701-8e16-04658da2a65a\techFunctions.py
+2026-05-24T11:04:04+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\e05192a9-b910-4701-8e16-04658da2a65a\relay_930.py
+2026-05-24T11:04:04+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\e05192a9-b910-4701-8e16-04658da2a65a\ProcessDocument.py
+2026-05-24T11:04:04+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\e05192a9-b910-4701-8e16-04658da2a65a\FinishProcess.py
+2026-05-24T11:04:04+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\e05192a9-b910-4701-8e16-04658da2a65a\main.py
+2026-05-24T11:04:04+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\e05192a9-b910-4701-8e16-04658da2a65a\main.py Робот начал работу 24.05.2026 11:04:04
+2026-05-24T11:04:04+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\e05192a9-b910-4701-8e16-04658da2a65a\ConfigFunctions.py Папки подготовлены
+2026-05-24T11:05:22+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\e05192a9-b910-4701-8e16-04658da2a65a\main.py Ошибка: 'int' object is not subscriptable
+2026-05-24T11:06:04+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:06:51+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\209e8514-4a78-49c8-b216-d5da7da295ae\techFunctions.py
+2026-05-24T11:06:53+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\209e8514-4a78-49c8-b216-d5da7da295ae\relay_930.py
+2026-05-24T11:06:53+0300 INFO: Завершение работы робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\209e8514-4a78-49c8-b216-d5da7da295ae\relay_930.py
+2026-05-24T11:11:20+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:11:21+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\841bda7f-c77a-463a-bf8e-5b6e40bfc2a6\ConfigFunctions.py
+2026-05-24T11:11:22+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\841bda7f-c77a-463a-bf8e-5b6e40bfc2a6\techFunctions.py
+2026-05-24T11:11:23+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\841bda7f-c77a-463a-bf8e-5b6e40bfc2a6\relay_930.py
+2026-05-24T11:11:23+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\841bda7f-c77a-463a-bf8e-5b6e40bfc2a6\ProcessDocument.py
+2026-05-24T11:11:23+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\841bda7f-c77a-463a-bf8e-5b6e40bfc2a6\FinishProcess.py
+2026-05-24T11:11:23+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\841bda7f-c77a-463a-bf8e-5b6e40bfc2a6\main.py
+2026-05-24T11:11:23+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\841bda7f-c77a-463a-bf8e-5b6e40bfc2a6\main.py Робот начал работу 24.05.2026 11:11:23
+2026-05-24T11:11:23+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\841bda7f-c77a-463a-bf8e-5b6e40bfc2a6\ConfigFunctions.py Папки подготовлены
+2026-05-24T11:13:29+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:15:04+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:15:05+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\75ecefd0-a6e8-445c-bc26-7922cb580602\ConfigFunctions.py
+2026-05-24T11:15:06+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\75ecefd0-a6e8-445c-bc26-7922cb580602\techFunctions.py
+2026-05-24T11:15:07+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\75ecefd0-a6e8-445c-bc26-7922cb580602\relay_930.py
+2026-05-24T11:15:07+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\75ecefd0-a6e8-445c-bc26-7922cb580602\ProcessDocument.py
+2026-05-24T11:15:07+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\75ecefd0-a6e8-445c-bc26-7922cb580602\FinishProcess.py
+2026-05-24T11:15:07+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\75ecefd0-a6e8-445c-bc26-7922cb580602\main.py
+2026-05-24T11:15:07+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\75ecefd0-a6e8-445c-bc26-7922cb580602\main.py Робот начал работу 24.05.2026 11:15:07
+2026-05-24T11:15:07+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\75ecefd0-a6e8-445c-bc26-7922cb580602\ConfigFunctions.py Папки подготовлены
+2026-05-24T11:17:01+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:23:54+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:23:56+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\ac1efd92-8bca-4677-b822-5ce413ef6f75\ConfigFunctions.py
+2026-05-24T11:23:56+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\ac1efd92-8bca-4677-b822-5ce413ef6f75\techFunctions.py
+2026-05-24T11:23:58+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\ac1efd92-8bca-4677-b822-5ce413ef6f75\relay_930.py
+2026-05-24T11:23:58+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\ac1efd92-8bca-4677-b822-5ce413ef6f75\ProcessDocument.py
+2026-05-24T11:23:58+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\ac1efd92-8bca-4677-b822-5ce413ef6f75\FinishProcess.py
+2026-05-24T11:23:58+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\ac1efd92-8bca-4677-b822-5ce413ef6f75\main.py
+2026-05-24T11:23:58+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\ac1efd92-8bca-4677-b822-5ce413ef6f75\main.py Робот начал работу 24.05.2026 11:23:58
+2026-05-24T11:23:58+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\ac1efd92-8bca-4677-b822-5ce413ef6f75\ConfigFunctions.py Папки подготовлены
+2026-05-24T11:25:52+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\ac1efd92-8bca-4677-b822-5ce413ef6f75\ProcessDocument.py Ошибка получения печатной формы
+2026-05-24T11:25:52+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\ac1efd92-8bca-4677-b822-5ce413ef6f75\main.py Ошибка: name 'is_process_successed' is not defined
+2026-05-24T11:26:19+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:43:41+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:43:42+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\4876feff-b440-4613-a88a-1d34dfccecae\ConfigFunctions.py
+2026-05-24T11:43:42+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\4876feff-b440-4613-a88a-1d34dfccecae\techFunctions.py
+2026-05-24T11:43:43+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\4876feff-b440-4613-a88a-1d34dfccecae\relay_930.py
+2026-05-24T11:43:43+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\4876feff-b440-4613-a88a-1d34dfccecae\ProcessDocument.py
+2026-05-24T11:43:43+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\4876feff-b440-4613-a88a-1d34dfccecae\FinishProcess.py
+2026-05-24T11:43:43+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\4876feff-b440-4613-a88a-1d34dfccecae\main.py
+2026-05-24T11:43:43+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\4876feff-b440-4613-a88a-1d34dfccecae\main.py Робот начал работу 24.05.2026 11:43:43
+2026-05-24T11:43:43+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\4876feff-b440-4613-a88a-1d34dfccecae\ConfigFunctions.py Папки подготовлены
+2026-05-24T11:45:00+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\4876feff-b440-4613-a88a-1d34dfccecae\main.py Ошибка: name 'web_actions' is not defined
+2026-05-24T11:45:06+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:46:10+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:46:11+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\abbc6c43-031c-4f8b-8977-f512d1e23026\ConfigFunctions.py
+2026-05-24T11:46:11+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\abbc6c43-031c-4f8b-8977-f512d1e23026\techFunctions.py
+2026-05-24T11:46:12+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\abbc6c43-031c-4f8b-8977-f512d1e23026\relay_930.py
+2026-05-24T11:46:12+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\abbc6c43-031c-4f8b-8977-f512d1e23026\ProcessDocument.py
+2026-05-24T11:46:12+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\abbc6c43-031c-4f8b-8977-f512d1e23026\FinishProcess.py
+2026-05-24T11:46:12+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\abbc6c43-031c-4f8b-8977-f512d1e23026\main.py
+2026-05-24T11:46:12+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\abbc6c43-031c-4f8b-8977-f512d1e23026\main.py Робот начал работу 24.05.2026 11:46:12
+2026-05-24T11:46:12+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\abbc6c43-031c-4f8b-8977-f512d1e23026\ConfigFunctions.py Папки подготовлены
+2026-05-24T11:47:30+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\abbc6c43-031c-4f8b-8977-f512d1e23026\main.py Ошибка: name 'web_actions' is not defined
+2026-05-24T11:47:34+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:50:55+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:50:56+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\c182eb75-4340-4c43-a863-9c0b89789c11\ConfigFunctions.py
+2026-05-24T11:50:56+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\c182eb75-4340-4c43-a863-9c0b89789c11\techFunctions.py
+2026-05-24T11:50:57+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\c182eb75-4340-4c43-a863-9c0b89789c11\relay_930.py
+2026-05-24T11:50:57+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\c182eb75-4340-4c43-a863-9c0b89789c11\ProcessDocument.py
+2026-05-24T11:50:57+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\c182eb75-4340-4c43-a863-9c0b89789c11\FinishProcess.py
+2026-05-24T11:50:57+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\c182eb75-4340-4c43-a863-9c0b89789c11\main.py
+2026-05-24T11:50:57+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\c182eb75-4340-4c43-a863-9c0b89789c11\main.py Робот начал работу 24.05.2026 11:50:57
+2026-05-24T11:50:57+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\c182eb75-4340-4c43-a863-9c0b89789c11\ConfigFunctions.py Папки подготовлены
+2026-05-24T11:52:47+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\c182eb75-4340-4c43-a863-9c0b89789c11\main.py Ошибка: name 'web_actions' is not defined
+2026-05-24T11:52:48+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:55:49+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:55:50+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\cab4cbda-a617-4ad1-bdc3-82e7ec335cbe\ConfigFunctions.py
+2026-05-24T11:55:50+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\cab4cbda-a617-4ad1-bdc3-82e7ec335cbe\techFunctions.py
+2026-05-24T11:55:50+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\cab4cbda-a617-4ad1-bdc3-82e7ec335cbe\relay_930.py
+2026-05-24T11:55:50+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\cab4cbda-a617-4ad1-bdc3-82e7ec335cbe\ProcessDocument.py
+2026-05-24T11:55:50+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\cab4cbda-a617-4ad1-bdc3-82e7ec335cbe\FinishProcess.py
+2026-05-24T11:55:51+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\cab4cbda-a617-4ad1-bdc3-82e7ec335cbe\main.py
+2026-05-24T11:55:51+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\cab4cbda-a617-4ad1-bdc3-82e7ec335cbe\main.py Робот начал работу 24.05.2026 11:55:51
+2026-05-24T11:55:51+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\cab4cbda-a617-4ad1-bdc3-82e7ec335cbe\ConfigFunctions.py Папки подготовлены
+2026-05-24T11:57:38+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\cab4cbda-a617-4ad1-bdc3-82e7ec335cbe\ProcessDocument.py Ошибка получения печатной формы
+2026-05-24T11:57:38+0300 INFO: Завершение работы робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\cab4cbda-a617-4ad1-bdc3-82e7ec335cbe\main.py
+2026-05-24T11:57:40+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:59:37+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T11:59:38+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\fcd23b6e-929e-4351-80e6-2463f7499c07\ConfigFunctions.py
+2026-05-24T11:59:38+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\fcd23b6e-929e-4351-80e6-2463f7499c07\techFunctions.py
+2026-05-24T11:59:38+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\fcd23b6e-929e-4351-80e6-2463f7499c07\relay_930.py
+2026-05-24T11:59:39+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\fcd23b6e-929e-4351-80e6-2463f7499c07\ProcessDocument.py
+2026-05-24T11:59:39+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\fcd23b6e-929e-4351-80e6-2463f7499c07\FinishProcess.py
+2026-05-24T11:59:39+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\fcd23b6e-929e-4351-80e6-2463f7499c07\main.py
+2026-05-24T11:59:39+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\fcd23b6e-929e-4351-80e6-2463f7499c07\main.py Робот начал работу 24.05.2026 11:59:39
+2026-05-24T11:59:39+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\fcd23b6e-929e-4351-80e6-2463f7499c07\ConfigFunctions.py Папки подготовлены
+2026-05-24T12:01:27+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\fcd23b6e-929e-4351-80e6-2463f7499c07\ProcessDocument.py Ошибка сохранения печатной формы
+2026-05-24T12:01:27+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\fcd23b6e-929e-4351-80e6-2463f7499c07\ProcessDocument.py Ошибка получения печатной формы
+2026-05-24T12:01:27+0300 INFO: Завершение работы робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\fcd23b6e-929e-4351-80e6-2463f7499c07\main.py
+2026-05-24T12:01:28+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:21:03+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\ProcessDocument.json
+2026-05-24T12:21:05+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\003444d0-6d66-4873-bec4-8c90975b036a\ProcessDocument.py
+2026-05-24T12:21:05+0300 INFO: Завершение работы робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\003444d0-6d66-4873-bec4-8c90975b036a\ProcessDocument.py
+2026-05-24T12:21:05+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\ProcessDocument.json
+2026-05-24T12:21:08+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:21:09+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\40da324b-6143-4cba-8ed6-178d05477366\ConfigFunctions.py
+2026-05-24T12:21:10+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\40da324b-6143-4cba-8ed6-178d05477366\techFunctions.py
+2026-05-24T12:21:10+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\40da324b-6143-4cba-8ed6-178d05477366\relay_930.py
+2026-05-24T12:21:10+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\40da324b-6143-4cba-8ed6-178d05477366\ProcessDocument.py
+2026-05-24T12:21:10+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\40da324b-6143-4cba-8ed6-178d05477366\FinishProcess.py
+2026-05-24T12:21:11+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\40da324b-6143-4cba-8ed6-178d05477366\main.py
+2026-05-24T12:21:11+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\40da324b-6143-4cba-8ed6-178d05477366\main.py Робот начал работу 24.05.2026 12:21:11
+2026-05-24T12:21:11+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\40da324b-6143-4cba-8ed6-178d05477366\ConfigFunctions.py Папки подготовлены
+2026-05-24T12:23:03+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\40da324b-6143-4cba-8ed6-178d05477366\ProcessDocument.py Ошибка сохранения печатной формы
+2026-05-24T12:23:03+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\40da324b-6143-4cba-8ed6-178d05477366\ProcessDocument.py Ошибка получения печатной формы
+2026-05-24T12:23:03+0300 INFO: Завершение работы робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\40da324b-6143-4cba-8ed6-178d05477366\main.py
+2026-05-24T12:23:06+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:32:03+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:32:05+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b4835d31-baf9-4cf0-a4b7-4c3113515ff8\ConfigFunctions.py
+2026-05-24T12:32:05+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b4835d31-baf9-4cf0-a4b7-4c3113515ff8\techFunctions.py
+2026-05-24T12:32:05+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b4835d31-baf9-4cf0-a4b7-4c3113515ff8\relay_930.py
+2026-05-24T12:32:06+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b4835d31-baf9-4cf0-a4b7-4c3113515ff8\ProcessDocument.py
+2026-05-24T12:32:06+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b4835d31-baf9-4cf0-a4b7-4c3113515ff8\FinishProcess.py
+2026-05-24T12:32:07+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b4835d31-baf9-4cf0-a4b7-4c3113515ff8\main.py
+2026-05-24T12:32:07+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b4835d31-baf9-4cf0-a4b7-4c3113515ff8\main.py Робот начал работу 24.05.2026 12:32:07
+2026-05-24T12:32:07+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b4835d31-baf9-4cf0-a4b7-4c3113515ff8\ConfigFunctions.py Папки подготовлены
+2026-05-24T12:34:22+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b4835d31-baf9-4cf0-a4b7-4c3113515ff8\ProcessDocument.py Ошибка сохранения печатной формы
+2026-05-24T12:34:22+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b4835d31-baf9-4cf0-a4b7-4c3113515ff8\ProcessDocument.py Ошибка получения печатной формы
+2026-05-24T12:34:22+0300 INFO: Завершение работы робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b4835d31-baf9-4cf0-a4b7-4c3113515ff8\main.py
+2026-05-24T12:34:25+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:36:06+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:36:08+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\d6c1e62b-42a5-4971-a979-c7cdd5ec4191\ConfigFunctions.py
+2026-05-24T12:36:08+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\d6c1e62b-42a5-4971-a979-c7cdd5ec4191\techFunctions.py
+2026-05-24T12:36:08+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\d6c1e62b-42a5-4971-a979-c7cdd5ec4191\relay_930.py
+2026-05-24T12:36:09+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\d6c1e62b-42a5-4971-a979-c7cdd5ec4191\ProcessDocument.py
+2026-05-24T12:36:09+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\d6c1e62b-42a5-4971-a979-c7cdd5ec4191\FinishProcess.py
+2026-05-24T12:36:10+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\d6c1e62b-42a5-4971-a979-c7cdd5ec4191\main.py
+2026-05-24T12:36:10+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\d6c1e62b-42a5-4971-a979-c7cdd5ec4191\main.py Робот начал работу 24.05.2026 12:36:10
+2026-05-24T12:36:10+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\d6c1e62b-42a5-4971-a979-c7cdd5ec4191\ConfigFunctions.py Папки подготовлены
+2026-05-24T12:38:36+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\d6c1e62b-42a5-4971-a979-c7cdd5ec4191\ProcessDocument.py Ошибка получения печатной формы
+2026-05-24T12:38:36+0300 INFO: Завершение работы робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\d6c1e62b-42a5-4971-a979-c7cdd5ec4191\main.py
+2026-05-24T12:38:39+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:39:39+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:39:41+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\598490d1-47a3-4151-9645-404632d407ef\ConfigFunctions.py
+2026-05-24T12:39:41+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\598490d1-47a3-4151-9645-404632d407ef\techFunctions.py
+2026-05-24T12:39:41+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\598490d1-47a3-4151-9645-404632d407ef\relay_930.py
+2026-05-24T12:39:42+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\598490d1-47a3-4151-9645-404632d407ef\ProcessDocument.py
+2026-05-24T12:39:42+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\598490d1-47a3-4151-9645-404632d407ef\FinishProcess.py
+2026-05-24T12:39:43+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\598490d1-47a3-4151-9645-404632d407ef\main.py
+2026-05-24T12:39:43+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\598490d1-47a3-4151-9645-404632d407ef\main.py Робот начал работу 24.05.2026 12:39:43
+2026-05-24T12:39:43+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\598490d1-47a3-4151-9645-404632d407ef\ConfigFunctions.py Папки подготовлены
+2026-05-24T12:40:30+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:40:47+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:40:49+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\1d510e5f-a040-4913-ae50-5af96137cfdf\ConfigFunctions.py
+2026-05-24T12:40:50+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\1d510e5f-a040-4913-ae50-5af96137cfdf\techFunctions.py
+2026-05-24T12:40:50+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\1d510e5f-a040-4913-ae50-5af96137cfdf\relay_930.py
+2026-05-24T12:40:50+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\1d510e5f-a040-4913-ae50-5af96137cfdf\ProcessDocument.py
+2026-05-24T12:40:50+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\1d510e5f-a040-4913-ae50-5af96137cfdf\FinishProcess.py
+2026-05-24T12:40:51+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\1d510e5f-a040-4913-ae50-5af96137cfdf\main.py
+2026-05-24T12:40:51+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\1d510e5f-a040-4913-ae50-5af96137cfdf\main.py Робот начал работу 24.05.2026 12:40:51
+2026-05-24T12:40:51+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\1d510e5f-a040-4913-ae50-5af96137cfdf\ConfigFunctions.py Папки подготовлены
+2026-05-24T12:41:24+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\1d510e5f-a040-4913-ae50-5af96137cfdf\main.py Ошибка: cannot access local variable 'link_document' where it is not associated with a value
+2026-05-24T12:41:36+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:42:05+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:42:07+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\eea1173a-5b92-4688-8b3f-6acd18d302ba\ConfigFunctions.py
+2026-05-24T12:42:07+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\eea1173a-5b92-4688-8b3f-6acd18d302ba\techFunctions.py
+2026-05-24T12:42:07+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\eea1173a-5b92-4688-8b3f-6acd18d302ba\relay_930.py
+2026-05-24T12:42:08+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\eea1173a-5b92-4688-8b3f-6acd18d302ba\ProcessDocument.py
+2026-05-24T12:42:08+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\eea1173a-5b92-4688-8b3f-6acd18d302ba\FinishProcess.py
+2026-05-24T12:42:09+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\eea1173a-5b92-4688-8b3f-6acd18d302ba\main.py
+2026-05-24T12:42:09+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\eea1173a-5b92-4688-8b3f-6acd18d302ba\main.py Робот начал работу 24.05.2026 12:42:09
+2026-05-24T12:42:09+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\eea1173a-5b92-4688-8b3f-6acd18d302ba\ConfigFunctions.py Папки подготовлены
+2026-05-24T12:44:40+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\eea1173a-5b92-4688-8b3f-6acd18d302ba\ProcessDocument.py Ошибка получения печатной формы
+2026-05-24T12:44:40+0300 INFO: Завершение работы робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\eea1173a-5b92-4688-8b3f-6acd18d302ba\main.py
+2026-05-24T12:44:43+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:50:53+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:50:55+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\54c62f01-c78b-406e-9464-5ee8674fce39\ConfigFunctions.py
+2026-05-24T12:50:56+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\54c62f01-c78b-406e-9464-5ee8674fce39\techFunctions.py
+2026-05-24T12:50:56+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\54c62f01-c78b-406e-9464-5ee8674fce39\relay_930.py
+2026-05-24T12:50:56+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\54c62f01-c78b-406e-9464-5ee8674fce39\ProcessDocument.py
+2026-05-24T12:50:56+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\54c62f01-c78b-406e-9464-5ee8674fce39\FinishProcess.py
+2026-05-24T12:50:57+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\54c62f01-c78b-406e-9464-5ee8674fce39\main.py
+2026-05-24T12:50:57+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\54c62f01-c78b-406e-9464-5ee8674fce39\main.py Робот начал работу 24.05.2026 12:50:57
+2026-05-24T12:50:57+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\54c62f01-c78b-406e-9464-5ee8674fce39\ConfigFunctions.py Папки подготовлены
+2026-05-24T12:54:04+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:54:43+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:54:44+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8dd29fab-67b2-480a-aad8-09a99e3ecf7c\ConfigFunctions.py
+2026-05-24T12:54:45+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8dd29fab-67b2-480a-aad8-09a99e3ecf7c\techFunctions.py
+2026-05-24T12:54:45+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8dd29fab-67b2-480a-aad8-09a99e3ecf7c\relay_930.py
+2026-05-24T12:54:45+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8dd29fab-67b2-480a-aad8-09a99e3ecf7c\ProcessDocument.py
+2026-05-24T12:54:45+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8dd29fab-67b2-480a-aad8-09a99e3ecf7c\FinishProcess.py
+2026-05-24T12:54:46+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8dd29fab-67b2-480a-aad8-09a99e3ecf7c\main.py
+2026-05-24T12:54:46+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8dd29fab-67b2-480a-aad8-09a99e3ecf7c\main.py Робот начал работу 24.05.2026 12:54:46
+2026-05-24T12:54:46+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8dd29fab-67b2-480a-aad8-09a99e3ecf7c\ConfigFunctions.py Папки подготовлены
+2026-05-24T12:57:15+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8dd29fab-67b2-480a-aad8-09a99e3ecf7c\ProcessDocument.py Ошибка получения печатной формы
+2026-05-24T12:57:15+0300 INFO: Завершение работы робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8dd29fab-67b2-480a-aad8-09a99e3ecf7c\main.py
+2026-05-24T12:57:18+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:59:56+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T12:59:58+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b5be81e4-041f-4fc2-abca-9a1f329fed01\ConfigFunctions.py
+2026-05-24T12:59:58+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b5be81e4-041f-4fc2-abca-9a1f329fed01\techFunctions.py
+2026-05-24T12:59:58+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b5be81e4-041f-4fc2-abca-9a1f329fed01\relay_930.py
+2026-05-24T12:59:59+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b5be81e4-041f-4fc2-abca-9a1f329fed01\ProcessDocument.py
+2026-05-24T12:59:59+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b5be81e4-041f-4fc2-abca-9a1f329fed01\FinishProcess.py
+2026-05-24T13:00:00+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b5be81e4-041f-4fc2-abca-9a1f329fed01\main.py
+2026-05-24T13:00:00+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b5be81e4-041f-4fc2-abca-9a1f329fed01\main.py Робот начал работу 24.05.2026 13:00:00
+2026-05-24T13:00:00+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b5be81e4-041f-4fc2-abca-9a1f329fed01\ConfigFunctions.py Папки подготовлены
+2026-05-24T13:02:30+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b5be81e4-041f-4fc2-abca-9a1f329fed01\ProcessDocument.py Ошибка получения печатной формы
+2026-05-24T13:02:30+0300 INFO: Завершение работы робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\b5be81e4-041f-4fc2-abca-9a1f329fed01\main.py
+2026-05-24T13:02:32+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:08:07+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:08:09+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\9ba41b74-b101-4f4d-a4f0-8ea7df6400ff\ConfigFunctions.py
+2026-05-24T13:08:09+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\9ba41b74-b101-4f4d-a4f0-8ea7df6400ff\techFunctions.py
+2026-05-24T13:08:09+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\9ba41b74-b101-4f4d-a4f0-8ea7df6400ff\relay_930.py
+2026-05-24T13:08:09+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\9ba41b74-b101-4f4d-a4f0-8ea7df6400ff\ProcessDocument.py
+2026-05-24T13:08:09+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\9ba41b74-b101-4f4d-a4f0-8ea7df6400ff\FinishProcess.py
+2026-05-24T13:08:11+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\9ba41b74-b101-4f4d-a4f0-8ea7df6400ff\main.py
+2026-05-24T13:08:11+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\9ba41b74-b101-4f4d-a4f0-8ea7df6400ff\main.py Робот начал работу 24.05.2026 13:08:11
+2026-05-24T13:08:11+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\9ba41b74-b101-4f4d-a4f0-8ea7df6400ff\ConfigFunctions.py Папки подготовлены
+2026-05-24T13:08:17+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:08:43+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:08:44+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88fc21b5-6f51-4aea-89ab-3222a3e5512b\ConfigFunctions.py
+2026-05-24T13:08:45+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88fc21b5-6f51-4aea-89ab-3222a3e5512b\techFunctions.py
+2026-05-24T13:08:45+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88fc21b5-6f51-4aea-89ab-3222a3e5512b\relay_930.py
+2026-05-24T13:08:45+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88fc21b5-6f51-4aea-89ab-3222a3e5512b\ProcessDocument.py
+2026-05-24T13:08:45+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88fc21b5-6f51-4aea-89ab-3222a3e5512b\FinishProcess.py
+2026-05-24T13:08:46+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88fc21b5-6f51-4aea-89ab-3222a3e5512b\main.py
+2026-05-24T13:08:46+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88fc21b5-6f51-4aea-89ab-3222a3e5512b\main.py Робот начал работу 24.05.2026 13:08:46
+2026-05-24T13:08:46+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88fc21b5-6f51-4aea-89ab-3222a3e5512b\ConfigFunctions.py Папки подготовлены
+2026-05-24T13:11:01+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88fc21b5-6f51-4aea-89ab-3222a3e5512b\ProcessDocument.py Ошибка сохранения печатной формы
+2026-05-24T13:11:01+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88fc21b5-6f51-4aea-89ab-3222a3e5512b\ProcessDocument.py Ошибка получения печатной формы
+2026-05-24T13:11:01+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\88fc21b5-6f51-4aea-89ab-3222a3e5512b\main.py Ошибка: Вкладка с номером 1 не существует
+2026-05-24T13:11:05+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:16:01+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:16:02+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\482dab6b-da5e-4f01-92e5-6cffe693511c\ConfigFunctions.py
+2026-05-24T13:16:03+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\482dab6b-da5e-4f01-92e5-6cffe693511c\techFunctions.py
+2026-05-24T13:16:03+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\482dab6b-da5e-4f01-92e5-6cffe693511c\relay_930.py
+2026-05-24T13:16:03+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\482dab6b-da5e-4f01-92e5-6cffe693511c\ProcessDocument.py
+2026-05-24T13:16:03+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\482dab6b-da5e-4f01-92e5-6cffe693511c\FinishProcess.py
+2026-05-24T13:16:04+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\482dab6b-da5e-4f01-92e5-6cffe693511c\main.py
+2026-05-24T13:16:04+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\482dab6b-da5e-4f01-92e5-6cffe693511c\main.py Робот начал работу 24.05.2026 13:16:04
+2026-05-24T13:16:04+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\482dab6b-da5e-4f01-92e5-6cffe693511c\ConfigFunctions.py Папки подготовлены
+2026-05-24T13:18:30+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\482dab6b-da5e-4f01-92e5-6cffe693511c\ProcessDocument.py Ошибка сохранения печатной формы
+2026-05-24T13:18:32+0300 INFO: Завершение работы робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\482dab6b-da5e-4f01-92e5-6cffe693511c\main.py
+2026-05-24T13:18:34+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:25:54+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:25:55+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\c46efc99-d61c-4e7c-a371-42c67d631fdb\ConfigFunctions.py
+2026-05-24T13:25:56+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\c46efc99-d61c-4e7c-a371-42c67d631fdb\techFunctions.py
+2026-05-24T13:25:56+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\c46efc99-d61c-4e7c-a371-42c67d631fdb\relay_930.py
+2026-05-24T13:26:05+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:27:03+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:27:04+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\51baf207-623a-4327-ba70-685e8270e569\ConfigFunctions.py
+2026-05-24T13:27:05+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\51baf207-623a-4327-ba70-685e8270e569\techFunctions.py
+2026-05-24T13:27:05+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\51baf207-623a-4327-ba70-685e8270e569\relay_930.py
+2026-05-24T13:27:09+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:27:19+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:27:20+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\704a0e3e-643e-434a-9e75-bd8845bf2bf0\ConfigFunctions.py
+2026-05-24T13:27:21+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\704a0e3e-643e-434a-9e75-bd8845bf2bf0\techFunctions.py
+2026-05-24T13:27:21+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\704a0e3e-643e-434a-9e75-bd8845bf2bf0\relay_930.py
+2026-05-24T13:27:21+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\704a0e3e-643e-434a-9e75-bd8845bf2bf0\ProcessDocument.py
+2026-05-24T13:27:21+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\704a0e3e-643e-434a-9e75-bd8845bf2bf0\FinishProcess.py
+2026-05-24T13:27:22+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\704a0e3e-643e-434a-9e75-bd8845bf2bf0\main.py
+2026-05-24T13:27:22+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\704a0e3e-643e-434a-9e75-bd8845bf2bf0\main.py Робот начал работу 24.05.2026 13:27:22
+2026-05-24T13:27:22+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\704a0e3e-643e-434a-9e75-bd8845bf2bf0\ConfigFunctions.py Папки подготовлены
+2026-05-24T13:29:55+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\704a0e3e-643e-434a-9e75-bd8845bf2bf0\ProcessDocument.py Ошибка сохранения печатной формы
+2026-05-24T13:29:55+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\704a0e3e-643e-434a-9e75-bd8845bf2bf0\ProcessDocument.py Успешное сохранение формы для документаСП00-000002
+2026-05-24T13:29:57+0300 INFO: Завершение работы робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\704a0e3e-643e-434a-9e75-bd8845bf2bf0\main.py
+2026-05-24T13:30:00+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:32:11+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:32:13+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\23ad5bb5-208e-4dda-a2ec-e852fcd5f1de\ConfigFunctions.py
+2026-05-24T13:32:14+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\23ad5bb5-208e-4dda-a2ec-e852fcd5f1de\techFunctions.py
+2026-05-24T13:32:14+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\23ad5bb5-208e-4dda-a2ec-e852fcd5f1de\relay_930.py
+2026-05-24T13:32:14+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\23ad5bb5-208e-4dda-a2ec-e852fcd5f1de\ProcessDocument.py
+2026-05-24T13:32:14+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\23ad5bb5-208e-4dda-a2ec-e852fcd5f1de\FinishProcess.py
+2026-05-24T13:32:15+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\23ad5bb5-208e-4dda-a2ec-e852fcd5f1de\main.py
+2026-05-24T13:32:15+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\23ad5bb5-208e-4dda-a2ec-e852fcd5f1de\main.py Робот начал работу 24.05.2026 13:32:15
+2026-05-24T13:32:15+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\23ad5bb5-208e-4dda-a2ec-e852fcd5f1de\ConfigFunctions.py Папки подготовлены
+2026-05-24T13:34:35+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:36:41+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:36:42+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\7efadc3b-9632-4962-b83a-5f2aefd68470\ConfigFunctions.py
+2026-05-24T13:36:43+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\7efadc3b-9632-4962-b83a-5f2aefd68470\techFunctions.py
+2026-05-24T13:36:43+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\7efadc3b-9632-4962-b83a-5f2aefd68470\relay_930.py
+2026-05-24T13:36:43+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\7efadc3b-9632-4962-b83a-5f2aefd68470\ProcessDocument.py
+2026-05-24T13:36:43+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\7efadc3b-9632-4962-b83a-5f2aefd68470\FinishProcess.py
+2026-05-24T13:36:44+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\7efadc3b-9632-4962-b83a-5f2aefd68470\main.py
+2026-05-24T13:36:44+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\7efadc3b-9632-4962-b83a-5f2aefd68470\main.py Робот начал работу 24.05.2026 13:36:44
+2026-05-24T13:36:44+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\7efadc3b-9632-4962-b83a-5f2aefd68470\ConfigFunctions.py Папки подготовлены
+2026-05-24T13:39:04+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\7efadc3b-9632-4962-b83a-5f2aefd68470\ProcessDocument.py Ошибка сохранения печатной формы
+2026-05-24T13:39:04+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\7efadc3b-9632-4962-b83a-5f2aefd68470\ProcessDocument.py Успешное сохранение формы для документаСП00-000002
+2026-05-24T13:39:04+0300 ERROR: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\7efadc3b-9632-4962-b83a-5f2aefd68470\main.py Ошибка: Вкладка с номером 1 не существует
+2026-05-24T13:39:07+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:41:18+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:41:37+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:41:44+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:41:57+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:43:04+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:43:30+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:44:00+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:44:07+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:44:47+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:44:56+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:45:28+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\ConfigFunctions.json
+2026-05-24T13:45:44+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\ConfigFunctions.json
+2026-05-24T13:47:00+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:47:05+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:47:12+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\ConfigFunctions.json
+2026-05-24T13:47:19+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\ConfigFunctions.json
+2026-05-24T13:47:38+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\ConfigFunctions.json
+2026-05-24T13:47:46+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\ConfigFunctions.json
+2026-05-24T13:48:08+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\ConfigFunctions.json
+2026-05-24T13:48:10+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\4b815036-20d6-48e3-b944-0c281982f5e0\ConfigFunctions.py
+2026-05-24T13:48:10+0300 INFO: Завершение работы робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\4b815036-20d6-48e3-b944-0c281982f5e0\ConfigFunctions.py
+2026-05-24T13:48:10+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\ConfigFunctions.json
+2026-05-24T13:48:12+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:48:13+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\c06b3cfa-2141-4116-af2c-d62213a7fe08\ConfigFunctions.py
+2026-05-24T13:48:34+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:48:36+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\1с.json
+2026-05-24T13:48:49+0300 ERROR: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\1с.json
+2026-05-24T13:49:40+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\1с.json
+2026-05-24T13:49:41+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\32ca6d17-3579-4f9b-8be2-b90cb9aa23ee\relay_930.py
+2026-05-24T13:49:41+0300 INFO: Завершение работы робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\32ca6d17-3579-4f9b-8be2-b90cb9aa23ee\relay_930.py
+2026-05-24T13:49:41+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\1с.json
+2026-05-24T13:49:44+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:49:46+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\48a79d19-b1d7-4dab-9ab9-d94b2a13318e\ConfigFunctions.py
+2026-05-24T13:49:46+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\48a79d19-b1d7-4dab-9ab9-d94b2a13318e\relay_930.py
+2026-05-24T13:49:46+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\48a79d19-b1d7-4dab-9ab9-d94b2a13318e\ProcessDocument.py
+2026-05-24T13:49:46+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\48a79d19-b1d7-4dab-9ab9-d94b2a13318e\FinishProcess.py
+2026-05-24T13:49:47+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\48a79d19-b1d7-4dab-9ab9-d94b2a13318e\main.py
+2026-05-24T13:49:47+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\48a79d19-b1d7-4dab-9ab9-d94b2a13318e\main.py Робот начал работу 24.05.2026 13:49:47
+2026-05-24T13:49:47+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\48a79d19-b1d7-4dab-9ab9-d94b2a13318e\ConfigFunctions.py Папки подготовлены
+2026-05-24T13:49:57+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:50:13+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:50:15+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\03e3ceb1-babe-4385-b59e-7f04898e3685\ConfigFunctions.py
+2026-05-24T13:50:15+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\03e3ceb1-babe-4385-b59e-7f04898e3685\relay_930.py
+2026-05-24T13:50:15+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\03e3ceb1-babe-4385-b59e-7f04898e3685\ProcessDocument.py
+2026-05-24T13:50:15+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\03e3ceb1-babe-4385-b59e-7f04898e3685\FinishProcess.py
+2026-05-24T13:50:16+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\03e3ceb1-babe-4385-b59e-7f04898e3685\main.py
+2026-05-24T13:50:16+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\03e3ceb1-babe-4385-b59e-7f04898e3685\main.py Робот начал работу 24.05.2026 13:50:16
+2026-05-24T13:50:16+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\03e3ceb1-babe-4385-b59e-7f04898e3685\ConfigFunctions.py Папки подготовлены
+2026-05-24T13:51:42+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\03e3ceb1-babe-4385-b59e-7f04898e3685\relay_930.py Обработка документов закончена, сохранено1документов
+2026-05-24T13:51:42+0300 INFO: Робот завершил работу
+2026-05-24T13:51:43+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:52:09+0300 INFO: Запуск процесса из студии разработки. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:52:11+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\74fe095e-ce54-4689-bae1-3cfc28db6932\ConfigFunctions.py
+2026-05-24T13:52:11+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\74fe095e-ce54-4689-bae1-3cfc28db6932\relay_930.py
+2026-05-24T13:52:11+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\74fe095e-ce54-4689-bae1-3cfc28db6932\ProcessDocument.py
+2026-05-24T13:52:11+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\74fe095e-ce54-4689-bae1-3cfc28db6932\FinishProcess.py
+2026-05-24T13:52:13+0300 INFO: Старт робота: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\74fe095e-ce54-4689-bae1-3cfc28db6932\main.py
+2026-05-24T13:52:13+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\74fe095e-ce54-4689-bae1-3cfc28db6932\main.py Робот начал работу 24.05.2026 13:52:13
+2026-05-24T13:52:13+0300 INFO: D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\74fe095e-ce54-4689-bae1-3cfc28db6932\ConfigFunctions.py Папки подготовлены
+2026-05-24T13:52:36+0300 INFO: Завершение выполнения процесса. D:\Study\ПКС\хакатон\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:53:39+0300 INFO: Запуск процесса из студии разработки. C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:53:40+0300 INFO: Старт робота: C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\04a4146b-f7dc-49dd-8d07-495422a1952b\ConfigFunctions.py
+2026-05-24T13:53:40+0300 INFO: Старт робота: C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\04a4146b-f7dc-49dd-8d07-495422a1952b\relay_930.py
+2026-05-24T13:53:40+0300 INFO: Старт робота: C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\04a4146b-f7dc-49dd-8d07-495422a1952b\ProcessDocument.py
+2026-05-24T13:53:40+0300 INFO: Старт робота: C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\04a4146b-f7dc-49dd-8d07-495422a1952b\FinishProcess.py
+2026-05-24T13:53:41+0300 INFO: Старт робота: C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\04a4146b-f7dc-49dd-8d07-495422a1952b\main.py
+2026-05-24T13:53:41+0300 INFO: C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\04a4146b-f7dc-49dd-8d07-495422a1952b\main.py Робот начал работу 24.05.2026 13:53:41
+2026-05-24T13:53:41+0300 INFO: C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\04a4146b-f7dc-49dd-8d07-495422a1952b\ConfigFunctions.py Папки подготовлены
+2026-05-24T13:54:37+0300 Окно выполнения: main: ERROR:  ["Failed to get child processes: program not found"]
+2026-05-24T13:54:52+0300 ERROR: C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\04a4146b-f7dc-49dd-8d07-495422a1952b\main.py Ошибка: [WinError 1225] Удаленный компьютер отклонил это сетевое подключение
+2026-05-24T13:54:52+0300 INFO: Завершение выполнения процесса. C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:55:11+0300 INFO: Запуск процесса из студии разработки. C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\process\main.json
+2026-05-24T13:55:12+0300 INFO: Старт робота: C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8f7b1b2f-54b8-4b17-aa0c-f4784c21bdb8\ConfigFunctions.py
+2026-05-24T13:55:12+0300 INFO: Старт робота: C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8f7b1b2f-54b8-4b17-aa0c-f4784c21bdb8\relay_930.py
+2026-05-24T13:55:13+0300 INFO: Старт робота: C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8f7b1b2f-54b8-4b17-aa0c-f4784c21bdb8\ProcessDocument.py
+2026-05-24T13:55:13+0300 INFO: Старт робота: C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8f7b1b2f-54b8-4b17-aa0c-f4784c21bdb8\FinishProcess.py
+2026-05-24T13:55:14+0300 INFO: Старт робота: C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8f7b1b2f-54b8-4b17-aa0c-f4784c21bdb8\main.py
+2026-05-24T13:55:14+0300 INFO: C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8f7b1b2f-54b8-4b17-aa0c-f4784c21bdb8\main.py Робот начал работу 24.05.2026 13:55:14
+2026-05-24T13:55:14+0300 INFO: C:\Users\kulak\Downloads\Telegram Desktop\case3_search-for-printed-form\case3_search-for-printed-form\Кейс3_ПоискПечатнойФормы1С\resource\8f7b1b2f-54b8-4b17-aa0c-f4784c21bdb8\ConfigFunctions.py Папки подготовлены

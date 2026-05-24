@@ -1,0 +1,16 @@
+{
+  "document_type": "Документ.СчетНаОплатуПокупателю",
+  "base_url": "https://demo1c.mkskom.ru/puzzle_buh_corp_8.3/ru/",
+  "credentials": {
+    "login": "Команда7",
+    "password": "%vedbTeRqiNfct"
+  },
+  "search_criteria": {
+    "counterparty": "Турбаза Яхрома",
+    "organization": "Филиал торгового дома \"Комплексный\" в г. Санкт-Петербурге"
+  },
+  "mode": "first_only",
+  "output_path": "print_forms",
+  "output_format": "pdf",
+  "file_name_template": "документ_{number}_{date}.pdf"
+}
