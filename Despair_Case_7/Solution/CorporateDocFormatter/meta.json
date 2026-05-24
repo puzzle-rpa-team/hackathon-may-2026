@@ -1,0 +1,9 @@
+{
+    "name": "CorporateDocFormatterExt",
+    "version": "1.0.4",
+    "author": "Otchayanie",
+    "description": "Форматирование документов Word",
+    "tags": ["word", "formatting", ".docx", "rpa"],
+    "_isInternalLog": true,
+    "_onIfUseFunc": false
+}
