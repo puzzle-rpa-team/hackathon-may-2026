@@ -3,8 +3,10 @@ import win32com.client as win32
 import os
 import re
 
+# Поддерживаемые расширения файлов Word
 WORD_EXTENSIONS = {'.doc', '.docx', '.docm', '.dot', '.dotx', '.dotm'}
 
+# Ключевые слова для определения заголовков первого уровня
 HEADING_KEYWORDS = [
     'введение', 'заключение', 'выводы', 'вывод',
     'содержание', 'оглавление',
@@ -13,8 +15,9 @@ HEADING_KEYWORDS = [
     'abstract', 'introduction', 'conclusion', 'references'
 ]
 
-HEADING1_PATTERN = re.compile(r'^\d+\.\s')
-HEADING2_PATTERN = re.compile(r'^\d+\.\d+\.\s')
+# Паттерны для определения заголовков по нумерации
+HEADING1_PATTERN = re.compile(r'^\d+\.\s')  # например: "1. Введение"
+HEADING2_PATTERN = re.compile(r'^\d+\.\d+\.\s')  # например: "1.1. Основные понятия"
 
 
 def is_correct_format(file_path):
@@ -23,7 +26,7 @@ def is_correct_format(file_path):
 
 
 def is_heading1(text):
-    """Определяет заголовок первого уровня по паттерну или ключевому слову."""
+    """Определяет заголовок первого уровня по паттерну нумерации или ключевому слову."""
     text = text.strip()
     if HEADING1_PATTERN.match(text) and not HEADING2_PATTERN.match(text):
         return True
@@ -31,7 +34,7 @@ def is_heading1(text):
 
 
 def is_heading2(text):
-    """Определяет заголовок второго уровня по паттерну."""
+    """Определяет заголовок второго уровня по паттерну нумерации."""
     return bool(HEADING2_PATTERN.match(text.strip()))
 
 
@@ -39,9 +42,12 @@ def clean_document(doc):
     """
     Очищает документ от лишнего форматирования:
     - сбрасывает прямое форматирование абзацев
+    - убирает пробелы в начале и конце абзацев
+    - заменяет табуляции на пробелы
+    - убирает множественные пробелы
     - удаляет пустые абзацы
-    - удаляет множественные пробелы
     """
+    # Сброс прямого форматирования каждого абзаца
     for para in doc.Paragraphs:
         try:
             para.Range.Font.Reset()
@@ -49,6 +55,7 @@ def clean_document(doc):
         except Exception:
             continue
 
+    # Удаление пробелов в начале и конце каждого абзаца
     for para in doc.Paragraphs:
         try:
             text = para.Range.Text
@@ -58,6 +65,7 @@ def clean_document(doc):
         except Exception:
             continue
 
+    # Замена табуляции на пробелы
     try:
         word = doc.Application
         word.Selection.Find.ClearFormatting()
@@ -66,6 +74,31 @@ def clean_document(doc):
     except Exception:
         pass
 
+    # Замена множественных пробелов
+    try:
+        while True:
+            word = doc.Application
+            word.Selection.Find.ClearFormatting()
+            word.Selection.Find.Replacement.ClearFormatting()
+            result = word.Selection.Find.Execute(
+                "[ ^s][ ^s]@",
+                False,
+                False,
+                True,
+                False,
+                False,
+                True,
+                1,
+                False,
+                " ",
+                2
+            )
+            if not result:
+                break
+    except Exception:
+        pass
+
+    # Удаление пустых абзацев
     indices_to_delete = []
     for i in range(1, doc.Paragraphs.Count + 1):
         try:
@@ -83,13 +116,13 @@ def clean_document(doc):
 
 
 def apply_font(doc, font_name, font_size):
-    """Применяет единый шрифт ко всему документу."""
+    """Применяет единый шрифт и размер ко всему документу."""
     doc.Range().Font.Name = font_name
     doc.Range().Font.Size = font_size
 
 
 def apply_headings(doc, font_name):
-    """Определяет заголовки и применяет соответствующие стили."""
+    """Определяет заголовки и применяет соответствующие стили Word."""
     for i in range(1, doc.Paragraphs.Count + 1):
         try:
             para = doc.Paragraphs(i)
@@ -108,7 +141,7 @@ def apply_headings(doc, font_name):
 
 
 def _apply_heading_style(para, level, font_name, doc):
-    """Вспомогательная: применяет стиль и форматирование к заголовку."""
+    """Вспомогательная: применяет стиль заголовка и форматирование к абзацу."""
     try:
         try:
             para.Style = doc.Styles(f"Заголовок {level}")
@@ -123,36 +156,39 @@ def _apply_heading_style(para, level, font_name, doc):
 
 
 def format_tables(doc, font_name, font_size):
-    """Форматирует все таблицы: границы, выравнивание, заголовочная строка."""
+    """Форматирует все таблицы в документе: границы, выравнивание, заголовочная строка."""
     for table in doc.Tables:
         try:
-            # Рамка
             try:
                 table.Borders.Enable = True
             except Exception:
                 pass
 
-
-            # Выравнивание и шрифт
+            # Выравнивание по центру и единый шрифт для всей таблицы
             table.Range.ParagraphFormat.Alignment = 1
             table.Range.Cells.VerticalAlignment = 1
             table.Range.Font.Name = font_name
             table.Range.Font.Size = font_size
 
-            # Заголовочная строка
+            # Заголовочная строка: жирный шрифт + серая заливка
             if table.Rows.Count > 0:
                 header = table.Rows(1)
                 header.Range.Font.Bold = True
-                header.Range.Shading.BackgroundPatternColor = 12632256
+                header.Range.Shading.BackgroundPatternColor = 12632256  # светло-серый
 
         except Exception:
             continue
 
 
 def replace_placeholders(doc, replacements):
-    """Заменяет плейсхолдеры {{ключ}} на значения из словаря."""
-    if not replacements or not isinstance(replacements, dict):
+    """Заменяет плейсхолдеры вида {{ключ}} на значения из словаря replacements."""
+    if not replacements:
         return
+    if isinstance(replacements, str) and not replacements.strip():
+        return
+    if not isinstance(replacements, dict):
+        return
+
     for key, value in replacements.items():
         try:
             word = doc.Application
@@ -182,6 +218,7 @@ def format_word_document(input_path, output_path=None, font_name="Calibri", font
     """
     Основная функция форматирования Word-документа.
     Вызывает вспомогательные функции последовательно.
+
     """
     if not input_path:
         raise ValueError("Не указан путь к файлу (input_path)")
@@ -203,6 +240,7 @@ def format_word_document(input_path, output_path=None, font_name="Calibri", font
     doc = None
 
     try:
+        # Запуск Word — если завис, убиваем процесс и запускаем заново
         try:
             word = win32.Dispatch("Word.Application")
             word.Visible = False
@@ -228,6 +266,7 @@ def format_word_document(input_path, output_path=None, font_name="Calibri", font
         format_tables(doc, font_name, font_size)  # 4. Таблицы
         replace_placeholders(doc, replacements)  # 5. Плейсхолдеры
 
+        # Определение пути для сохранения
         if output_path and str(output_path).strip():
             abs_output = os.path.abspath(str(output_path))
             output_dir = os.path.dirname(abs_output)
@@ -250,7 +289,6 @@ def format_word_document(input_path, output_path=None, font_name="Calibri", font
             doc.SaveAs(abs_output)
 
         return f"Успешно отформатировано: {abs_output}"
-
 
     except (FileNotFoundError, ValueError, EnvironmentError):
         raise
